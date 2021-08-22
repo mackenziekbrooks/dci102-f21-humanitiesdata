@@ -1,0 +1,34 @@
+site_name: DCI 102 Coursebook
+base_url: https://mackenziekbrooks.github.io/dci102-f20-humanities-data/
+
+theme: 
+  name: 
+  custom_dir: mkdocs_gitbook/
+
+features:
+  - tabs
+    #- instant
+
+extra_css: 
+  - styles/website.css
+
+
+plugins:
+  - search
+
+markdown_extensions:
+    - toc:
+        permalink: "#"
+
+nav:
+  - Schedule: schedule.md
+  - Assignments: assignments.md
+  - What is Humanities Data?: what-is-humanities-data.md
+  - How the Web Works: how-the-web-works.md
+  - Your Computer: your-computer.md
+  - Data: data.md
+  - Visualization: visualization.md
+  - Network Analysis: network-analysis.md
+  - Spatial Analysis: spatial-analysis.md
+  - Text Analysis: text-analysis.md
+  - Process: process.md

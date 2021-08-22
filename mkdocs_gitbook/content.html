@@ -1,0 +1,11 @@
+{#
+{% if page and page.meta and page.meta.source %}
+{% for filename in page.meta.source %}
+{{ filename }}
+{% endfor %}
+{% endif %}
+#}
+
+{% if page and page.title %}<h1>{{ page.title }}</h1>{% endif %}
+{% if page and page.content %}{{ page.content }}{% endif %}
+
