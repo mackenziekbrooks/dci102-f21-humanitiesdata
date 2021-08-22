@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Network Analysis - DCI 102 Coursebook</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="generator" content="mkdocs-1.2.2, mkdocs-gitbook-">
+
+<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta rel="next" href="" />
+<link href="../css/style.min.css" rel="stylesheet">
+<link href="../styles/website.css" rel="stylesheet"> 
+</head>
+
+<body>
+<div class="book">
+<div class="book-summary">
+<div id="book-search-input" role="search">
+<input id="mkdocs-search-query" type="text" placeholder="Type to search" />
+</div> <!-- end of book-search-input -->
+
+<nav role="navigation">
+<ul class="summary">
+<li>
+<a href=".." class="custom-link" id="site-title">  
+<img src="https://mackenziekbrooks.github.io/humanities-data/images/manatee144.png" alt="this is a cute manatee icon" class="img-title">
+DCI 102 Coursebook</a>
+</li>
+<li class="divider"></li>
+<li class="chapter" data-path="schedule/">
+<a href="../schedule/">Schedule</a>
+<li class="chapter" data-path="assignments/">
+<a href="../assignments/">Assignments</a>
+<li class="chapter" data-path="what-is-humanities-data/">
+<a href="../what-is-humanities-data/">What is Humanities Data?</a>
+<li class="chapter" data-path="how-the-web-works/">
+<a href="../how-the-web-works/">How the Web Works</a>
+<li class="chapter" data-path="your-computer/">
+<a href="../your-computer/">Your Computer</a>
+<li class="chapter" data-path="data/">
+<a href="../data/">Data</a>
+<li class="chapter" data-path="visualization/">
+<a href="../visualization/">Visualization</a>
+<li class="chapter active" data-path="network-analysis/">
+<a href="./">Network Analysis</a>
+<li class="chapter" data-path="spatial-analysis/">
+<a href="../spatial-analysis/">Spatial Analysis</a>
+<li class="chapter" data-path="text-analysis/">
+<a href="../text-analysis/">Text Analysis</a>
+<li class="chapter" data-path="process/">
+<a href="../process/">Process</a>
+<li class="divider"></li>
+
+
+
+<li><a href="http://www.mkdocs.org">
+Published with MkDocs
+</a></li>
+
+<li><a href="https://github.com/GitbookIO/theme-default">
+Theme by GitBook
+</a></li>
+</ul>
+
+</nav>
+
+</div> <!-- end of book-summary -->
+
+<div class="book-body">
+<div class="body-inner">
+<div class="book-header" role="navigation">
+
+<!-- Title -->
+<h1>
+<i class="fa fa-circle-o-notch fa-spin"></i>
+<a href="." ></a>
+</h1>
+
+</div> <!-- end of book-header -->
+
+<div class="page-wrapper" tabindex="-1" role="main">
+
+<div class="page-inner">
+<div id="mkdocs-search-results">
+<div class="search-noresults">
+
+
+<section class="normal markdown-section">
+
+
+
+<h1>Network Analysis</h1>
+<p>In this section, we'll explore network analysis as a tool for understanding relationships between people and things.</p>
+<div class="toc">
+<ul>
+<li><a href="#what-is-network-analysis">What is network analysis?</a></li>
+<li><a href="#nodes-edges-ties-what">Nodes, edges, ties, what?</a></li>
+<li><a href="#network-data">Network data</a></li>
+<li><a href="#tools">Tools</a></li>
+<li><a href="#activities">Activities</a><ul>
+<li><a href="#activity-51">Activity 5.1</a></li>
+<li><a href="#activity-52">Activity 5.2</a></li>
+<li><a href="#activity-53">Activity 5.3</a></li>
+<li><a href="#activity-54">Activity 5.4</a></li>
+</ul>
+</li>
+<li><a href="#resources">Resources</a></li>
+<li><a href="#readings">Readings</a></li>
+</ul>
+</div>
+<h2 id="what-is-network-analysis">What is network analysis?<a class="headerlink" href="#what-is-network-analysis" title="Permanent link">#</a></h2>
+<p>Networks are everywhere. Once you start, it's hard to stop seeing them. The internet is a network, Facebook is a network, <a href="https://oracleofbacon.org/">Kevin Bacon</a> is the central node in the Hollywood network. Studying the connections between people and things is a major activity in the humanities, so "network analysis" feels like a natural method for working with humanities data. Network analysis varies by discipline, but originates from graph theory in mathematics. This is a simplification, but the idea is that one can measure significant people in a network by how many connections they have to other people and by the weight or significance of those connections. You can also learn who might serve as a bridge between social groups or whether you have a dense network of highly connected people or a more disperse group. We can visualize these networks through a network graph - points connected by lines. </p>
+<p>You don't necessarily have to just study people with network analysis, but it's a common approach. The specific name for this methodology is <strong>SNA</strong> or Social Network Analysis. SNA is used in many disciplines, with a heavy presence in the social sciences. It's important to recognize that each discipline will have its own conventions and expectations for SNA. You should tread carefully until you have a firm foundation. As Scott Weingart reminds us in "<a href="http://www.scottbot.net/HIAL/index.html@p=6279.html">Networks Demystified</a>:" </p>
+<blockquote>
+<p>"Networks can be used on any project. Networks should be used on far fewer."</p>
+</blockquote>
+<p>This is not to scare you! But learning about network analysis is the perfect moment to pause and remember that you are not working in a vacuum. The methods you use have a historical and modern context and you are responsible for learning that context. </p>
+<p>That being said, network visualizations can be a great place to start. They can help you learn more about your data or illuminate a new direction for your research agenda. Plus, they're fun. Learning the basics will help you be better judge of whether it is, in fact, a good fit for your project. </p>
+<h2 id="nodes-edges-ties-what">Nodes, edges, ties, what?<a class="headerlink" href="#nodes-edges-ties-what" title="Permanent link">#</a></h2>
+<p>Let's take a moment to define some of the terms you'll encounter in network analysis. </p>
+<ul>
+<li>
+<p>Nodes/points/agents/vertices - All of these words refer to the points on your network graph. If you're doing social network analysis, the points are the people in your graph. </p>
+</li>
+<li>
+<p>Edges/ties - Refers to the connections between nodes, usually represented by lines between points. Edges can be weighted (stronger or weaker edges) or directional (some relationships are mutual, some are not). The line could be drawn thin or thick based on the weight, or with an arrow to signify direction. The connection between you and your roommate might have a strong weight for example. If you follow a celebrity on Twitter, but they don't follow you back, we can imagine that as a relationship with a single direction. </p>
+</li>
+<li>
+<p>Centrality - the more connections a node has, the more central they are to the network. You can measure centrality in different ways, such as betweenness (the shortest distance between nodes) or eigenvector (way to measure influence in a network). Think about your friends. The person who seems to know everyone might not be the same as the person who can spread information effectively, or to far off parts of the network. </p>
+</li>
+<li>
+<p>Attributes - Information about your nodes. If your network contains people, attributes might be their age, birth dates, affiliation, occupation, etc. </p>
+</li>
+<li>
+<p>Bimodal or multi-modal - a network in which more than one type of thing is being connected. While a unimodal network might connect people to people, a bimodal network looks at authors and their books, or people to places. Scott Weingart has more to say about <a href="http://www.scottbot.net/HIAL/index.html@p=41158.html">bimodal networks</a>.</p>
+</li>
+</ul>
+<h2 id="network-data">Network data<a class="headerlink" href="#network-data" title="Permanent link">#</a></h2>
+<p>To visualize your network, you need to set up your data is particular way. This might vary depending on the software you use, but it's a good place to start: </p>
+<p>An <strong>edge list</strong> is a two-column spreadsheet that forms the the network by listing the nodes and their connections. It's in a deceptively simple format:</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kevin Bacon</td>
+<td>John Lithgow</td>
+</tr>
+<tr>
+<td>Kevin Bacon</td>
+<td>Sarah Jessica Parker</td>
+</tr>
+<tr>
+<td>Sarah Jessica Parker</td>
+<td>Matthew Broderick</td>
+</tr>
+<tr>
+<td>Matthew Broderick</td>
+<td>Jennifer Grey</td>
+</tr>
+<tr>
+<td>Jennifer Grey</td>
+<td>Patrick Swayze</td>
+</tr>
+<tr>
+<td>Patrick Swayze</td>
+<td>Demi Moore</td>
+</tr>
+<tr>
+<td>Demi Moore</td>
+<td>Kevin Bacon</td>
+</tr>
+<tr>
+<td>Jennifer Grey</td>
+<td>Laurence Fishburne</td>
+</tr>
+<tr>
+<td>Laurence Fishburne</td>
+<td>Keanu Reeves</td>
+</tr>
+<tr>
+<td>Kevin Bacon</td>
+<td>Laurence Fishburne</td>
+</tr>
+</tbody>
+</table>
+<p>You'll notice that some names can appear more than once, and not necessarily in the same column. Each of these rows represents a single connection, in this case, a movie. Take a minute to try to draw this extremely limited 80s-90s movie network on paper. What do you expect to see? Who has the most connections? Who seems central and who seems like an outlier? How flawed is this network? Add to it if you can. </p>
+<p>An edge list might build the network, but we need an <strong>attribute table</strong> to add context to our network. An attribute table lists each node only once, then displays information about that node in subsequent columns. </p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Gender</th>
+<th>Is known for a dance scene</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kevin Bacon</td>
+<td>M</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>Matthew Broderick</td>
+<td>M</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>Laurence Fishburne</td>
+<td>M</td>
+<td>N</td>
+</tr>
+<tr>
+<td>Jennifer Grey</td>
+<td>F</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>John Lithgow</td>
+<td>M</td>
+<td>N</td>
+</tr>
+<tr>
+<td>Demi Moore</td>
+<td>F</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>Sarah Jessica Parker</td>
+<td>F</td>
+<td>N</td>
+</tr>
+<tr>
+<td>Keanu Reeves</td>
+<td>M</td>
+<td>N</td>
+</tr>
+<tr>
+<td>Patrick Swawyze</td>
+<td>M</td>
+<td>Y</td>
+</tr>
+</tbody>
+</table>
+<p>Now I can use this information to filter or slice the view of my network. I can also use it to refine my questions or my data set. It's easy for me to see that I have <a href="https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few">more men in my network</a> than women.</p>
+<p>If you want to see this data as a visualization, try loading it into <a href="http://hdlab.stanford.edu/palladio-app/#/upload">Palladio</a>.</p>
+<p>Copy and paste the following text into the white box in Palladio, then press <code>Load</code>: </p>
+<pre><code>Source,Target,
+Kevin Bacon,John Lithgow,
+Kevin Bacon,Sarah Jessica Parker,
+Sarah Jessica Parker,Matthew Broderick,
+Matthew Broderick,Jennifer Grey,
+Jennifer Grey,Patrick Swayze,
+Patrick Swayze,Demi Moore,
+Demi Moore,Kevin Bacon,
+Jennifer Grey, Laurence Fishburne,
+Laurence Fishburne, Keanu Reeves,
+Kevin Bacon, Laurence Fishburne,
+</code></pre>
+<p>To generate a network, visit the <code>Graph</code> tab. Use the menu on the right of the screen to select the "source" column in <code>Source</code> and the "target" column in <code>Target</code>. You should see a network appear! Does it look like what you expected? </p>
+<h2 id="tools">Tools<a class="headerlink" href="#tools" title="Permanent link">#</a></h2>
+<ul>
+<li>
+<p><a href="http://hdlab.stanford.edu/palladio/">Palladio</a> is a data visualization tool created by Stanford's Humanities + Design Research Lab. It's a browser-based tool that accepts structured data and creates network, geospatial, and gallery visualizations. It's easy to use, but can crash under too much data. It's a great way to create first draft visualizations of your data. </p>
+</li>
+<li>
+<p><a href="https://gephi.org/">Gephi</a> is a robust network/graph visualization tool. It runs from your computer and can accept large data sets (though you will need some patience). Gephi has a lot of options for changing the appearance of your network via filters and layout. You can also generate statistics about graph density etc. There are a number of <a href="https://gephi.org/users/">tutorials</a> available.</p>
+</li>
+<li>
+<p><a href="http://www.cytoscape.org/">Cytoscape</a> was designed for the sciences, but is now being used for more general network analysis and visualization purposes. </p>
+</li>
+<li>
+<p><a href="https://nodegoat.net/">Nodegoat</a> is a data modeling and visualization platform with options for network analysis.</p>
+</li>
+<li>
+<p><a href="http://igraph.org/redirect.html">igraph</a> is a network analysis package for use with R, Python, and C++</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/site/ucinetsoftware/home">UCINET</a> is available on Windows only. It is not free software, but 90 day trials are available. <a href="https://sites.google.com/site/analyzingsocialnetworks/analyses">Tutorials</a> are available on the UCINET site. Hanneman and Riddle created this <a href="http://www.faculty.ucr.edu/~hanneman/nettext/">textbook</a> for use with UCINET.</p>
+</li>
+</ul>
+<h2 id="activities">Activities<a class="headerlink" href="#activities" title="Permanent link">#</a></h2>
+<h3 id="activity-51">Activity 5.1<a class="headerlink" href="#activity-51" title="Permanent link">#</a></h3>
+<p>In order to practice using the terminology and methods of network analysis, let's design a network from scratch. I recommend using the whiteboard feature in Zoom, a Google doc/drawing, or a Box note for this exercise. </p>
+<ol>
+<li>In your group, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&amp;L students? Sports? A novel or TV show?</li>
+<li>List all the nodes in your network. Do they have types? Do they have attributes? Is this a bi-modal or multi-modal network?</li>
+<li>Start making connections or edges in your network. What type of edges do you need? Do the edges have a weight?</li>
+<li>Think about centrality. Do you have an ego network? How might you start calculating centrality?</li>
+</ol>
+<h3 id="activity-52">Activity 5.2<a class="headerlink" href="#activity-52" title="Permanent link">#</a></h3>
+<p>Let's continue practicing our skills reviewing established projects. Instead of a blog post, be prepared to talk about this project with your classmates. Select one of the following projects to explore. Use the review criteria from <a href="https://reviewsindh.pubpub.org/review-process">Reviews in DH</a> to analyze the project. Make some notes in if you need to. </p>
+<ul>
+<li><a href="http://kindred.stanford.edu/#">Kindred Britain</a></li>
+<li><a href="https://belfastgroup.digitalscholarship.emory.edu/">Belfast Group Poetry</a></li>
+<li><a href="http://sixdegreesoffrancisbacon.com/">Six Degrees of Francis Bacon</a></li>
+<li><a href="https://linkedjazz.org/">Linked Jazz</a></li>
+<li><a href="https://viraltexts.org/">Viral Texts</a></li>
+</ul>
+<p>During class, we'll divide into groups to discuss the project you chose. </p>
+<ol>
+<li>What is this project about? What are the goals?</li>
+<li>Where/what is the data? </li>
+<li>How is this a humanities project?</li>
+<li>How effective are the network visualizations? Why do you say that?</li>
+<li>What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? </li>
+</ol>
+<h3 id="activity-53">Activity 5.3<a class="headerlink" href="#activity-53" title="Permanent link">#</a></h3>
+<p>Let's practice putting together a network visualization with sample data. </p>
+<ol>
+<li>Download the <a href="https://docs.google.com/spreadsheets/d/1PwfV7-_sTI-YMkVxTufSQ0QIgA3zOGaGo-aFeePXsCY/edit?usp=sharing">results</a> of our super duper quick survey. </li>
+<li>To create an edge list, open the results in Open Refine. Follow these instructions carefully!<ul>
+<li>Remove the timestamp column.</li>
+<li>From the first column after the names, select Transpose &gt; Transpose cells across columns into rows.</li>
+<li>Select the one column option and title your new column Value.</li>
+<li>Check the box for Fill down in other columns.</li>
+<li>Press Transpose. You should end up with <strong>two columns</strong> where each person's name is listed multiple times, corresponding with their answer to each survey question.</li>
+<li>Extract your new edge list as .csv to download back to your computer.</li>
+</ul>
+</li>
+<li>Open <a href="http://hdlab.stanford.edu/palladio-app/">Palladio</a> and drag your new edge list into the white box.</li>
+<li>In Palladio, navigate to the Graph menu item. </li>
+<li>In the Settings box, you'll want to use the drop down menu to select a column from the data (name or target). You should now see a network viz!</li>
+<li>Test out the checkboxes to see how that changes your visualization. What do the Facets do at the bottom of the screen? How do you download this image?</li>
+<li>What are the limits of Palladio? </li>
+</ol>
+<h3 id="activity-54">Activity 5.4<a class="headerlink" href="#activity-54" title="Permanent link">#</a></h3>
+<p>Now try putting together a network visualization from our trusty cemetery dataset. </p>
+<ol>
+<li>First, what are our questions? Who are the people in our data set? What networks should try to explore? </li>
+<li>Next, we need an edge list. We know that this is a two column spreadsheet, what belongs in each column?</li>
+<li>Go ahead and put some data together. This is a big data set, so we'll have to start somewhere. </li>
+<li>Upload your data into <a href="https://hdlab.stanford.edu/palladio/">Palladio</a> and create your network.</li>
+<li>What worked? What didn't? </li>
+</ol>
+<h2 id="resources">Resources<a class="headerlink" href="#resources" title="Permanent link">#</a></h2>
+<ul>
+<li><a href="http://miriamposner.com/dh101f15/index.php/creating-a-network-graph-with-gephi/">Creating a Network Graph with Gephi</a> - Miriam Posner</li>
+<li><a href="https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources">From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources</a> - Programming Historian tutorial</li>
+<li><a href="http://thomaspadilla.org/na2014/">Introduction to Network Analysis</a> - Thomas Padilla and Brandon Locke</li>
+</ul>
+<h2 id="readings">Readings<a class="headerlink" href="#readings" title="Permanent link">#</a></h2>
+<ul>
+<li><a href="https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few">An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?</a></li>
+<li><a href="http://www.scottbot.net/HIAL/index.html@p=6279.html">Demystifying Networks</a></li>
+<li><a href="http://www.themacroscope.org/?page_id=892">Network Analysis Fundamentals</a></li>
+</ul>
+
+
+</section>
+</div> <!-- end of search-noresults -->
+<div class="search-results">
+<div class="has-results">
+
+<h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+<ul class="search-results-list"></ul>
+
+</div> <!-- end of has-results -->
+<div class="no-results">
+
+<h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+
+</div> <!-- end of no-results -->
+</div> <!-- end of search-results -->
+</div> <!-- end of book-search-results -->
+
+</div> <!-- end of page-inner -->
+</div> <!-- end of page-wrapper -->
+
+</div> <!-- end of body-inner -->
+
+</div> <!-- end of book-body -->
+<script>var base_url = "..";</script>
+<script src="../js/main.js"></script>
+<script src="../search/main.js"></script>
+<script src="../js/gitbook.min.js"></script>
+<script src="../js/theme.min.js"></script>
+</body>
+</html>
