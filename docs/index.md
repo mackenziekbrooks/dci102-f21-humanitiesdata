@@ -3,18 +3,18 @@ title: DCI 102 Data in the Humanities
 ---
 
 ## Course info
-Fall 2020 // TR 4:30-6pm // Virtual Course. All course meetings will be conducted in Zoom. 
+Fall 2021 // TR 3:15-4:45pm
 
-The [course website](http://mackenziekbrooks.github.com/dci102-f20-humanities-data) is a living document. It will change regularly to reflect the needs of the course.
+The [course website](http://mackenziekbrooks.github.com/dci102-f21-humanitiesdata) is a living document. It will change regularly to reflect the needs of the course.
 
 
 ## Contact
 
 Mackenzie Brooks // Associate Professor & Digital Humanities Librarian // (she/her/hers)
 
-brooksm@wlu.edu // 540-458-8659 // Leyburn 321
+brooksm@wlu.edu // 540-458-8659 // Leyburn 218
 
-Office hours: TR 1:30-4:30pm
+Office hours: TR 1:30-3:00pm
 
 ## Course description
 This course introduces students to the creation, use, and visualization of data in humanities-based research. The course is predicated on the fact that the digital turn of the last several decades has drastically changed the nature of knowledge production and distribution. In the 21st century, we must develop fluencies in media beyond the printed word such as text mining, network analysis, data visualization, and spatial analysis. Readings and discussions of theory from the field and set of practices that is Digital Humanities (DH) will complement hands-on application of digital methods and computational thinking. While the objects of our study will primarily come from the humanities, the methods of analysis are widely applicable to the social and natural sciences. 
@@ -47,10 +47,7 @@ This course introduces students to the creation, use, and visualization of data 
 
 ## Pandemic protocols
 
-* This semester will be a lot. Go easy on yourself, your classmates, and your instructor. We are all trying to make the best of a situation that no one anticipated or asked for. 
-* I thought carefully about how to conduct this class. The digital work we will do in this class lends itself to virtual instruction perhaps more than other courses. We will be sharing screens, using breakout rooms, and working collaboratively online. These are skills that you can take with you later in life. But please let me know what is working or not working for you!
-* That being said, you will feel overwhelmed by technology and grow weary of screens. Give yourself a break! Go outside, run up and down the stairs a few times, look at some art, the mountains, pictures of your pet. Walk around the block without your phone. Hydrate.  
-* The virtual environment does make communication harder. You might not feel comfortable speaking up or be able to stay after class. I might not be able to "read the room" as effectively as usual. Please, please reach out whenever you have questions, be it via Zoom, chat, email, or a call. I am happy to send you a Zoom link to chat. I will be on campus sometimes and can meet you with in person.
+* We're still a pandemic and it sucks! Even though W&L is trying to have a normal year, things are still going to be weird and hard. Show grace to yourself, your classmates, and your instructor. 
 
 
 ## Required texts
@@ -59,6 +56,7 @@ All readings are available freely online or through Leyburn Library’s subscrip
 
 We will rely heavily on the following texts:
 
+* [Data Feminism]()
 * [The Historian's Macroscope](http://www.themacroscope.org/?page_id=584)
 * [Programming Historian](http://programminghistorian.org/)
 
@@ -68,11 +66,13 @@ You will be provided with a domain from [Reclaim Hosting](https://reclaimhosting
 
 ### Accommodations
 
-Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Title IX Coordinator and Director of Disability Resources, Elrod Commons 212 \(540\) 458-4055. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. Accommodations for test-taking must be arranged with the professor at least a week before the date of the test or exam, including finals.
+I am committed to ensuring access to course content for all students. Reasonable accommodations are available for students with disabilities. Contact Lauren Kozak, Title IX Coordinator and Director of Disability Resources, to confidentially discuss your needs and the accommodation process. More information can be found at: https://www.wlu.edu/disability-accommodations/undergraduate-accommodations
+
+If you have already been approved for accommodations, please meet with me within the first two weeks of the term so we can develop an implementation plan together. It is important to meet as early in the term as possible; this will ensure that your accommodations are implemented early on. If you have accommodations for test-taking, please remember that arrangements must be made at least a week before the date of the test or exam.
 
 ### Attendance
 
-You may notice that I do not factor in attendance and participation into your grade. This is on purpose. I try to design my classes so that you can't *not* participate. Class sessions are structured to help you advance your learning, not just for you to receive content. If you miss a lot of class, it will affect your grade because you aren't learning what you need to learn to fulfill assignments, not because I've docked a point. But life happens and sometimes you need a day or two. Or a pandemic happens and we all need a break. I expect that you'll talk to me about these instances and take responsibility for catching up on what you've missed. I will not plan to record our classes unless you let me know in advance that you'll be missing class and would like a recording. 
+You may notice that I do not factor in attendance and participation into your grade. This is on purpose. I design my classes so that you can't *not* participate. Class sessions are structured to help you advance your learning, not just for you to receive content. If you miss a lot of class, it will affect your grade because you aren't learning what you need to learn to fulfill assignments, not because I've docked a point. But life happens and sometimes you need a day or two. Or a pandemic happens and we all need a break. I expect that you'll talk to me about these instances and take responsibility for catching up on what you've missed. 
 
 ### Plagiarism
 

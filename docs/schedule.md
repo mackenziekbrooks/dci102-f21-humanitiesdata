@@ -1,54 +1,58 @@
 
 **Jump to:**
 
-[Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
+[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
 
-This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm. 
+
+# Week 0 - First day! 
+* Getting to know you [survey](https://forms.gle/eW9Q2fUVxiJjgQHPA)
+* Class agenda:
+	* introductions + icebreaker: earliest memory of the internet? 
+	* course overview 
+	* let the coding begin! 
+		* Download [Sublime Text Editor](https://www.sublimetext.com/).
+		* We'll start on [Activity 1.2](#activity-12-html)
+
+**For Tuesday:** 
+* Read [What is Humanities Data](what-is-humanities-data.md) by class time. 
+* Spend some time exploring the projects in [Activity 1.1](../what-is-humanities-data/#activity-11).
+* Read [How the Web Works](../how-the-web-works/) by class time. We will do the activities in class, but read through them so you're ready. 
 
 # Week 1 - How the Web Works
 
-## Tuesday, August 25, 2020
-* Getting to know you [survey](https://forms.gle/eW9Q2fUVxiJjgQHPA)
-* Read [What is Humanities Data](what-is-humanities-data.md) by class time. 
+## Tuesday, September 14, 2021
+
 * Class agenda:
-	* introductions + icebreaker: earliest memory of the internet? (4:30-4:45)
-	* course overview (4:45-5:05)
-	* quick break (5:05-5:10)
-	* breakout rooms: [course charter](https://wlu.app.box.com/notes/711151977761) (5:10-5:30)
-	* review charter together (5:30-5:45)
-	* go over activities for Thursday (5:45-6pm)
+	* icebreaker: what do you wish you'd known about W&L as a first year?
+	* What is humanities data discussion + [Activity 1.1](../what-is-humanities-data/#activity-11)
+	* We'll pick back up where we left off on coding activities.
 
 
 **For Thursday**
 
-* Complete [Activity 1.1](../what-is-humanities-data/#activity-11). Nothing to turn in, just spent some time exploring and thinking.
-* Download [Sublime Text Editor](https://www.sublimetext.com/).
-* Read [How the Web Works](../how-the-web-works/) by class time. We will do the activities in class, but read through them so you're ready. 
 * Read [Digital_Humanities](https://web.archive.org/web/20180217210709/https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chapter 1
 
 
-## Thursday, August 27, 2020
+## Thursday, September 16, 2021
+
 * How the Web Works!
 * Class agenda: 
-	* icebreaker: what do you wish you'd known about W&L as a first year? (4:30-4:40)
-	* activity 1.1 sharing + discussion (4:40-4:50)
-	* activities 1.2 + 1.3 walk through (4:50-5:00)
-	* activities 1.2 + 1.3 solo work time + break (5:00-5:15)
-	* activities 1.4-1.6 walk through (5:15-5:30)
-	* activities 1.4-1.6 work time (5:30-6:00)
+	* icebreaker:
+	* Course charter time
+	* Finish up [coding activities](../how-the-web-works/#activities)
 
 ## Activity log week 1
-**Due Monday 8/31 at 9am** Wow because of date typo, you have until Tuesday, 9/1 at 9am to submit.
+**Due Monday 8/31 at 9am** 
 
 1. Complete [Activities 1.2, 1.3, 1.4](../how-the-web-works/#activities). In Canvas, submit the URL webpage that you have coded and uploaded to your domain. 
-2. Complete [Activities 1.5-1.6](../how-the-web-works/#activities). In Canvas, submit the URL to your Wordpress site. There should be evidence that you have customized your Wordpress beyond the basic settings. 
+2. Complete [Activities 1.5-1.6](../how-the-web-works/#activities). In Canvas, submit the URL to your Wordpress site. There should be evidence that you have customized your Wordpress beyond the basic settings (images, menu, pages, about section, etc). 
 3. Blog post #1. Respond to the following prompt in a 300-500 word blog post on your Wordpress. In Canvas, submit the URL the blog post. 
 	- Prompt: What brought you to this class? What is your current relationship with technology? Where do you see data in your coursework? Where do you see data in your daily life? What humanities subjects are particularly interesting to you? What are your own goals for this course? What do you want to accomplish/learn/achieve?  
 
 
 # Week 2 - Your Computer
 
-## Tuesday, September 1, 2020
+## Tuesday, September 21, 2021
 * Read [Your Computer](your-computer.md) by class time. 
 * Class agenda: 
 	* icebreaker: It's September today. What will you miss the most about summer? 
@@ -68,7 +72,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 * Finish Activity 2.1 and 2.2 by class time.
 
-## Thursday, September 3, 2020
+## Thursday, September 23, 2021
 * Class agenda:
 	* icebreaker: what's your favorite comfort tv show? (4:30-4:40)
 	* Introduce Final Project (4:40-5:00)
@@ -93,7 +97,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 # Week 3 - Data
 
-## Tuesday, September 8, 2020
+## Tuesday, September 28, 2021
 * Read the [Data](data.md) chapter by class time. 
 * Class agenda:
 	* icebreaker: favorite dog breed (4:30-4:45)
@@ -107,7 +111,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * Read over the [Process](process.md) section and bring questions. 
 * Read [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
-## Thursday, September 10, 2020
+## Thursday, September 30, 2021
 * Class agenda: 
 	* icebreaker: what is the least interesting fact about yourself? (4:30-4:40)
 	* Project Q&A (4:40-4:50)
@@ -122,7 +126,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 # Week 4 - Visualization 
 
-## Tuesday, September 15, 2020
+## Tuesday, October 5, 2021
 * Read [Visualization](visualization.md) by class time.
 * [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf), Visualization section, chapters 12-15
 * Go out into the wilds of the internet and find a data visualization that speaks to you to prepare for Activity 4.2. 
@@ -136,7 +140,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 * Read [When the Designer Shows Up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
 * Read [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://www.themacroscope.org/?page_id=837) and subsequent sections
 
-## Thursday, September 17, 2020
+## Thursday, October 7, 2021
 * Class agenda:
 	* icebreaker: is there a scary thing from your childhood that still affects your behavior today? (4:30-4:40pm)
 	* Discuss readings (4:40-5:00pm)
@@ -153,7 +157,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 # Week 5 - Network Analysis 
 
-## Tuesday, September 22, 2020
+## Tuesday, October 12, 2021
 * Read [Network](network-analysis.md) by class time. 
 * Read [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html)
 * Class agenda:
@@ -167,7 +171,7 @@ This class will meet on Zoom during its normally scheduled time: TR 4:30-6:00pm.
 
 Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked to share in class on the project you choose! 
 
-## Thursday, September 24, 2020
+## Thursday, READING DAYS NO CLASS
 * Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 * Class agenda:
@@ -179,7 +183,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 ## Activity log week 5
 
-**Due Monday 9/28 at 9am**
+**Due Monday  at 9am**
 
 1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
 2. Blog post #5: Time to start your research! Prompt:
@@ -191,14 +195,14 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 # Week 6 - Spatial Analysis
 
-## Tuesday, September 29, 2020
+## Tuesday, October 19, 2021
 * Read the [Spatial Analysis](../spatial-analysis) by class time. 
 * Class agenda:
 	* icebreaker: if money/time/obligations/pandemic were no issue, where would go right now? (4:30-4:40)
 	* [Activity 6.1](../spatial-analysis/#activity-61) 
 	* [Activity 6.2](../spatial-analysis/#activity-62) 
 
-## Thursday, October 1, 2020
+## Thursday, October 21, 2021
 * read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
 * Class agenda:
 	* icebreaker: guilty pleasure movie (Bryan)
@@ -207,7 +211,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 ## Activity log week 6
 
-**Due Monday 10/5 at 9am**
+**Due Monday  at 9am**
 
 1. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
 2. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
@@ -222,14 +226,14 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 # Week 7 - Text Analysis 
 
-## Tuesday, October 6, 2020
+## Tuesday, October 26, 2021
 * Read [Text Analysis](../text-analysis) by class time. 
 * Print out this [activity packet](https://wlu.app.box.com/folder/123798425174) before class! 
 * Class agenda:
 	* icebreaker: favorite hike or outdoor location in Rockbridge county? 
 	* 4 Ways to Read activity (4:45-6)
 
-## Thursday, October 8, 2020
+## Thursday, October 28, 2021
 * Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart 
 * Sign up for a [meeting time on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka).
 * Class agenda: 

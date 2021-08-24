@@ -6,7 +6,7 @@
 <title>How the Web Works - DCI 102 Coursebook</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="generator" content="mkdocs-1.1.2, mkdocs-gitbook-">
+<meta name="generator" content="mkdocs-1.2.2, mkdocs-gitbook-">
 
 <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
 <meta name="HandheldFriendly" content="true"/>
@@ -150,7 +150,6 @@ Theme by GitBook
     &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
-
 <p>As you can see, angle brackets surround each tag. The tags themselves around pieces of content. There's an opening tag and a closing tag. You can tell the closing tag by the slash after the angle bracket <code>&lt;/title&gt;</code>. You should also notice that the tags are nested. The <code>&lt;head&gt;</code> and <code>&lt;body&gt;</code> tag are both children of <code>&lt;html&gt;</code>, and each of those tags has their own children. We'll learn more HTML down in <a href="#activity-12-html">Activity 1.2</a>. </p>
 <p>For now, the thing to remember is that HTML exists to tell the computer, specifically the browser, what to do with each piece of content. Another way to say this is <em>semantic markup</em>. Attaching structural or semantic meaning to content is especially important because not everyone (people or computers) uses their eyes to read the Web. Using valid HTML ensures that the Web is <a href="https://www.w3.org/WAI/">accessible</a> to everyone, regardless of their ability. For instance, using heading tags like <code>&lt;h1&gt;</code> and <code>&lt;h2&gt;</code> tell a person about the organization of the page more than making text bold with the <code>&lt;strong&gt;</code> tag.  Altering the visual apprearance of the text without the structural headings won't convey the same meaning to a person who uses a screen reader.  Even if you don't go on to build websites for a living, something as simple as adding a caption to any image you publish can improve accessibility. An image without a caption or description is meaningless to someone who can't see it.  Can you find the caption or "alt text" for the image on this page? </p>
 <h3 id="text-editors">Text Editors<a class="headerlink" href="#text-editors" title="Permanent link">#</a></h3>
@@ -169,14 +168,12 @@ h1 {
     font-size: 150%; 
 }
 </code></pre>
-
 <p>The first step is to identify the HTML tag you wish to style. Here, we're styling everything that lives within the <code>&lt;body&gt;</code> tag. In CSS language, this is a selector. Once we identify our selector, we list, or <em>declare</em> the things we want to style within a pair of curly brackets. This can be called the "declaration block." We identify the thing, or "property" we wish to style, followed by a colon, then list the "value" we want to use, ending with a semi-colon. In CSS terms, it looks like this: </p>
 <pre><code>selector {
 property: value; 
 otherProperty: anotherValue;
 }
 </code></pre>
-
 <p>The syntax takes getting used to, but remember, you do not have to memorize every property or selector. Even experienced Web designers have to look things up. I recommend using the <a href="w3schools.com/">W3 Schools</a> to find reliable code to copy. </p>
 <p>There's lots to love about CSS. In a relatively simple document, you can control the style of hundreds of HTML documents and ensure consistency. But you can also pinpoint one specific margin or border and change its color or add some padding. </p>
 <p>One final note: to ensure that your CSS actually appears on your page, you need to add a piece of code to your HTML document that references the CSS document. We'll do this in <a href="#activity-13-css">Activity 1.3</a>.  </p>

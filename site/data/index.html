@@ -6,7 +6,7 @@
 <title>Data - DCI 102 Coursebook</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="generator" content="mkdocs-1.1.2, mkdocs-gitbook-">
+<meta name="generator" content="mkdocs-1.2.2, mkdocs-gitbook-">
 
 <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
 <meta name="HandheldFriendly" content="true"/>
@@ -181,7 +181,6 @@ Pet1,Huxley,Cat,Tabby,
 Pet2,Harper,Dog,Flat Coat Retriever,
 Pet3,Hobbes,Dog,Hound
 </code></pre>
-
 <p>The CSV format reduces file size, simplifies the content, and keeps the file from being dependent on proprietary software like Excel. Fortunately, you don't have to construct your data with commas. Applications like Excel or Google Sheets will let you save or export your file with the file extension <code>.csv</code>. It's a good habit to get into when working with data. You might also see <code>.tsv</code> for tab separated values, in which the spaces we see when we hit the tab button function as a single character.</p>
 <h3 id="relational-data">Relational data<a class="headerlink" href="#relational-data" title="Permanent link">#</a></h3>
 <p>For some projects, a single table quickly becomes insufficient. Perhaps your project requires collecting data about a group of people, the houses they live in, the land they occupy, etc. It might be time to look into using a database to store all that data. A database works on a relational model - you might have multiple tables, but they are connected through shared values or "keys." Using a database allows you to gather data about many different things, things that may require different fields to describe them. So my table of people may contain a column to note which house they live in, but I can rely on a totally separate table to list all the details about the house itself. This keeps me from cluttering my people table with information that isn't relevant to the main thing my row is about. Often, this is done with an ID number rather than the full title. </p>
@@ -191,12 +190,10 @@ Pet3,Hobbes,Dog,Hound
 FROM table_name
 WHERE column_name operator value;
 </code></pre>
-
 <p>Here's a more specific example. In this one, the asterisk means "give me everything." So I'm asking for all the fields that exist about the cats.</p>
 <pre><code>SELECT * FROM pets
 WHERE animal='cat';
 </code></pre>
-
 <p>Asking these types of questions of data is often what humanities scholars are after when they decide to build a database. However, designing a database and the interface that goes along with it is a big endeavor, and often requires the help of a professional database designer. Databases can be built in many different types of software (you might encounter names like MySQL or PostgreSQL), but web-based databases will need to be installed on a server, not just your own computer. If you're undertaking a big project, it's important to assess your resources for creating a database. Fortunately, there are an increasing number of options for storing, visualizing, and analyzing data without database software. Creating well-structured data ensures that your data can be imported into and out of these tools with ease.</p>
 <h3 id="data-serialization">Data serialization<a class="headerlink" href="#data-serialization" title="Permanent link">#</a></h3>
 <p>Data serialization is the process by which data is transformed into another format that can be transferred or stored, then reconstituted. Often, this is necessary so that a programming language or software application can more easily and quickly do something with the data. With serialization comes a few different types of data structures that are important to know. </p>
@@ -215,7 +212,6 @@ WHERE animal='cat';
   },
 }
 </code></pre>
-
 <p><strong>XML</strong> or Extensible Markup Language is more than just a serialized data format, it's also a markup language (like HTML). XML has been around a long time, so you will see it referenced in many Digital Humanities projects. XML is highly structured, but allows the user to define the tags that are used. A common application in humanities projects is the <a href="https://tei-c.org/">Text Encoding Initiative</a> or TEI. TEI is used to markup humanities texts, just like you would markup a website, but instead you use tags like <code>&lt;l&gt;</code> for line and <code>&lt;epigraph&gt;</code> for epigraph. TEI allows you to do things like build a <a href="http://prosody.lib.virginia.edu/">website</a> for testing your ability to read rhyme and meter in poetry. It is a foundational practice in DH - the process by which a human interprets a text and encodes the meaning in a way that the computer can understand.</p>
 <p>Example: </p>
 <pre><code>&lt;lg rhyme=&quot;ABCCBBA&quot;&gt;
@@ -232,7 +228,6 @@ WHERE animal='cat';
  &lt;l&gt;We cannot beg for &lt;rhyme label=&quot;A&quot;&gt;pardon&lt;/rhyme&gt;.&lt;/l&gt;
 &lt;/lg&gt;
 </code></pre>
-
 <h3 id="textual-data">Textual data<a class="headerlink" href="#textual-data" title="Permanent link">#</a></h3>
 <p>Not all data has needs to exist in a spreadsheet. In the humanities, we read a lot! We need a way to store textual data, such as a whole book, set of documents, or a century of newspaper articles. A later section will cover the ins and outs of text analysis, but if you're looking to analyze a corpus (another word for collection of texts) of some kind, you need to structure it in some way. </p>
 <p>The common method for storing textual data is in a plain text format or with the file extension <code>.txt</code>. Plain text files are just that - documents without the formatting that comes from MS Word or other word processing applications. Just like our HTML documents or our CSV files, a text document simplifies the content for the computer. When we're <a href="https://voyant-tools.org/?corpus=austen">counting the number of times Jane Austen used the word "honor"</a> or looking for the <a href="https://books.google.com/ngrams/graph?corpus=26&amp;content=evolution%2C+religion&amp;smoothing=3&amp;year_start=1800&amp;year_end=2019&amp;direct_url=t1%3B%2Cevolution%3B%2Cc0%3B.t1%3B%2Creligion%3B%2Cc0">use of the word "evolution" over time</a>, we are concerned with the words in the text, not the way the text looks. Plain text format reduces file size to improve processing time and transfer of data. You'll probably want to use a text editor for viewing these files, just like we did when writing HTML. </p>
@@ -360,7 +355,6 @@ Source: <a href="https://www.w3.org/TR/rdf11-primer/">RDF Primer</a></p>
     &lt;/rdf:Description&gt;
 &lt;/rdf:RDF&gt;
 </code></pre>
-
 <p>It's not that much fun to read, but you're a human, not a computer. In this example, you can pick out terms like "SKOS" and "FOAF." If you have been following along and nerding about about data modeling, go ahead and look those up or check out this tutorial: "<a href="https://programminghistorian.org/en/lessons/intro-to-linked-data">Introduction to the Principles of Linked Open Data</a>". If you're overwhelmed, tuck them in your pocket for later. This is a window into advanced work with humanities data. It's good to know it exists, but it's okay if you're not ready for it yet. </p>
 <h2 id="activities">Activities<a class="headerlink" href="#activities" title="Permanent link">#</a></h2>
 <h3 id="activity-31">Activity 3.1<a class="headerlink" href="#activity-31" title="Permanent link">#</a></h3>
