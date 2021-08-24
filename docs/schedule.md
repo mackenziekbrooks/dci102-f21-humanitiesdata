@@ -37,9 +37,17 @@
 
 * How the Web Works!
 * Class agenda: 
-	* icebreaker:
-	* Course charter time
+	* [Icebreaker](http://mackenziekbrooks.github.io/icebreaker-generator/)
+	* Course charter creation
 	* Finish up [coding activities](../how-the-web-works/#activities)
+	* If you're done, partner up and complete the following:
+		* First, share with your partner one realization you had while learning HTML/CSS. It can be technical like "don't forget that slash" or conceptual "I realized I need to read directions more closely."
+    	* Second, visit each other's hand-coded website (not Wordpress). Share the link in chat. Right click/Ctrl + Click to view page source.
+    	* Proof your partner's code. Check their syntax. Did they miss any slashes? Is everything in the right place? 
+    	* Work together to add the following to each of your websites:
+        	* an `iframe` tag which will embed another website onto your own. 
+        	* two `div` tags with different background colors (hint, you'll need to use a class or id)
+    	* Be sure to upload your changes to your website.
 
 ## Activity log week 1
 **Due Monday 8/31 at 9am** 
@@ -49,38 +57,29 @@
 3. Blog post #1. Respond to the following prompt in a 300-500 word blog post on your Wordpress. In Canvas, submit the URL the blog post. 
 	- Prompt: What brought you to this class? What is your current relationship with technology? Where do you see data in your coursework? Where do you see data in your daily life? What humanities subjects are particularly interesting to you? What are your own goals for this course? What do you want to accomplish/learn/achieve?  
 
+**For Tuesday:**
+* Read [Your Computer](your-computer.md) by class time. 
 
 # Week 2 - Your Computer
 
 ## Tuesday, September 21, 2021
-* Read [Your Computer](your-computer.md) by class time. 
 * Class agenda: 
-	* icebreaker: It's September today. What will you miss the most about summer? 
-	* breakout groups: review websites in small groups (4:45-5:00)
-		* First, share with your partner one realization you had while learning HTML/CSS. It can be technical like "don't forget that slash" or conceptual "I realized I need to read directions more closely."
-    	* Second, visit each other's hand-coded website (not Wordpress). Share the link in chat. Right click/Ctrl + Click to view page source.
-    	* Proof your partner's code. Check their syntax. Did they miss any slashes? Is everything in the right place? 
-    	* Work together to add the following to each of your websites:
-        	* an `iframe` tag which will embed another website onto your own. 
-        	* two `div` tags with different background colors (hint, you'll need to use a class or id)
-    	* Be sure to upload your changes to your website.
-    * break (5:00-5:05)
-	* start [Activity 2.1](../your-computer/#activity-21) together (5:05-5:45)
+	* icebreaker: 
+	* start [Activity 2.1](../your-computer/#activity-21) together
 	* talk about Week 2 blog post 
 
 **For Thursday:**
-
 * Finish Activity 2.1 and 2.2 by class time.
 
 ## Thursday, September 23, 2021
 * Class agenda:
-	* icebreaker: what's your favorite comfort tv show? (4:30-4:40)
+	* icebreaker:  (4:30-4:40)
 	* Introduce Final Project (4:40-5:00)
 	* Start [Activity 2.3](../your-computer/#activity-23) together in breakout rooms (5:00-5:45)
 	* Questions??? (5:45-6:00)
 
 ## Activity log week 2
-**Due Monday 9/7 at 9am**
+**Due Monday 9/27 at 9am**
 
 1. Complete [Activity 2.3](../your-computer/#activity-23). In Canvas, submit a document with your answers. It is more important that you show your process, thinking, and attempts than it is that you get everything right.
 2. Blog post #2: Respond to the following prompt in a 500 word blog post on your Wordpress. In Canvas, submit the URL the blog post. Prompt:
@@ -100,10 +99,10 @@
 ## Tuesday, September 28, 2021
 * Read the [Data](data.md) chapter by class time. 
 * Class agenda:
-	* icebreaker: favorite dog breed (4:30-4:45)
-	* [Activity 3.1](../data/#activity-31) (4:45-5:10)
-	* Activity 3.2 (5:10-5:40)
-	* Activity 3.3 (5:40-6:00)
+	* icebreaker: 
+	* [Activity 3.1](../data/#activity-31) 
+	* Activity 3.2
+	* Activity 3.3 
 	
 **For Thursday:**	
 
@@ -113,13 +112,12 @@
 
 ## Thursday, September 30, 2021
 * Class agenda: 
-	* icebreaker: what is the least interesting fact about yourself? (4:30-4:40)
-	* Project Q&A (4:40-4:50)
-	* Activity 3.4 (4:50-6:00)
-
+	* icebreaker: 
+	* Project Q&A 
+	* Activity 3.4 
 
 ## Activity log week 3
-**Due Monday 9/14 at 9am**
+**Due Monday 10/5 at 9am**
 
 1. Submit your answers from Activities 3.3 via a document in Canvas.  
 2. Blog post #3: Respond to the following prompt in 300-500 words. Time to start thinking about your project! You will conduct this project on your own, though we'll have plenty of opportunities for peer review and feedback. You will choose your topic, so it's time to start brainstorming. What types of humanities-based topics do you find compelling? What subjects are you interested in school and out of school? What might make a good data-driven topic? Maybe you've always wanted to see a map from a particular historical event, or analyze the word choice of a favorite author. 
@@ -131,9 +129,9 @@
 * [Data + Design: A simple introduction to preparing and visualizing information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf), Visualization section, chapters 12-15
 * Go out into the wilds of the internet and find a data visualization that speaks to you to prepare for Activity 4.2. 
 * Class agenda:
-	* icebreaker: Are you excited about fall? Why? (4:30-4:45)
-	* Activity 4.1. (4:45-5:10)
-	* Activity 4.2 (5:15-6pm)
+	* icebreaker: 
+	* Activity 4.1
+	* Activity 4.2 
 
 **For Thursday** 
 
@@ -142,14 +140,14 @@
 
 ## Thursday, October 7, 2021
 * Class agenda:
-	* icebreaker: is there a scary thing from your childhood that still affects your behavior today? (4:30-4:40pm)
-	* Discuss readings (4:40-5:00pm)
-	* Activity 4.3 (5:00-5:45pm)
-	* Regroup (5:45-6pm)
+	* icebreaker: 
+	* Discuss readings 
+	* Activity 4.3 
+	* Regroup 
 
 ## Activity log week 4
 
-**Due Monday 9/21 at 9am**
+**Due Monday 10/11 at 9am**
 
 1. Turn in the results of Activity 4.1 on Canvas.
 2. Write 100-200 words on the visualization you found, addressing the questions in Activity 4.2. Turn this in as a document on Canvas. 
