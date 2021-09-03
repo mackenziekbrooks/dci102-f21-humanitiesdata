@@ -7,9 +7,9 @@ In this section, we'll explore how Internet works, learn the basics of HTML and 
 
 ## What even is the Internet? 
 
-The Internet is magic! Just kidding, it's not, but it can certainly seem that way. Maybe you're reading this on your phone in the middle of the lawn, or curled up in bed with your laptop. It's more than likely that you're using Wi-Fi or a cellular network and therefore have no physical connection to the Internet. It's understandable that it feels like magic sometimes! But in reality, the Internet is an immensely physical thing. Put simply, it is computers connected to other computers. The information (text or media and all forms in between) you send and receive travels through wires and fiber-optic cables in the ground and even [under the ocean](https://www.submarinecablemap.com/). 
+The Internet is magic! Just kidding, it's not, but it can certainly seem that way. Maybe you're reading this on your phone in the middle of the lawn, or curled up in bed with your laptop. It's more than likely that you're using Wi-Fi or a cellular network and therefore have no physical connection to the Internet. It's understandable that it feels like magic sometimes! But in reality, the Internet is an immensely physical thing. Put simply, the Internet is computers directly connected to other computers. The information (text or media and all forms in between) you send and receive travels through wires and fiber-optic cables in the ground and even [under the ocean](https://www.submarinecablemap.com/). 
 
-These connected or "networked" computers talk to each other using their own languages or more precisely, specific protocols. For instance, every computer has an address, known as an IP \(Internet Protocol\) address, to help direct traffic to the right place. Another protocol that you use, even if you don't realize it, is the Hypertext Transfer Protocol, or HTTP. Your browser uses HTTP to render websites. When you type in `http://www.wlu.edu` your browser sends out a request to the computer that can serve up all the files at that particular address. The "server" returns the files and your browser (Safari, Chrome, Firefox) renders them into a website. At its simplest, a website is just a folder full of files and images. Those files are full of code, which we'll learn about in the next section.
+These connected or "networked" computers talk to each other using their own languages or more precisely, specific protocols. For instance, every computer has an address, known as an IP \(Internet Protocol\) address, to help direct traffic to the right place. Another protocol that you use even if you don't realize it, is the Hypertext Transfer Protocol, or HTTP. Your browser uses HTTP to render websites. When you type in `http://www.wlu.edu` your browser sends out a request to a computer that can serve up all the files at that particular address. The "server" returns the files and your browser (Safari, Chrome, Firefox) renders them into a website. At its simplest, a website is just a folder full of files and images. Those files are full of code, which we'll learn about in the next section.
 
 Make sense? Here are a few videos that might help you visualize this great network of computers:
 
@@ -20,7 +20,7 @@ Make sense? Here are a few videos that might help you visualize this great netwo
 ## HTML
 HTML, or Hypertext Markup Language, is one of the basic building blocks of the web. Every website you see is created using this language, from the most basic to most interactive. 
 
-To prove it, go to your browser open up a new tab right now. Visit any website you like. Right click, or `ctrl` + click to open up an options menu. Select `View Page Source`. If you're using Safari, try pressing `Command + Option + i`. You should see a new window full of text surrounded by angle brackets. That's HTML. 
+To see for yourself, go to your browser and open up a new tab. Visit any website you like. Right click, or `ctrl` + click to open up an options menu. Select `View Page Source`. If you're using Safari, try pressing `Command + Option + i`. You should see a new window full of text surrounded by angle brackets. That's the HTML that makes up the page you visited.
 
 HTML stands for HyperText Markup Language. It is a set of tags, or *elements*, that adds structure to a document or page. When you write a document, you rely on style to indicate something about the text. You might put the title in a bigger font or break up paragraphs with tabs or new lines. Markup languages do this by adding tags around the content you wish to set apart. 
 
@@ -33,6 +33,7 @@ What are other tags that you might expect to exist? If you were to analyze a web
 Some things that come to mind: menus or navigation `<nav>`, images `<img src="kittens.jpg">`, or even just your basic paragraph `<p>`. 
 
 To give you a taste, a basic HTML document might look like this: 
+
 ```
 <html>
 	<head>
@@ -45,21 +46,22 @@ To give you a taste, a basic HTML document might look like this:
 </html>
 ```
 
-As you can see, angle brackets surround each tag. The tags themselves around pieces of content. There's an opening tag and a closing tag. You can tell the closing tag by the slash after the angle bracket `</title>`. You should also notice that the tags are nested. The `<head>` and `<body>` tag are both children of `<html>`, and each of those tags has their own children. We'll learn more HTML down in [Activity 1.2](#activity-12-html). 
+As you can see, angle brackets surround each tag. The tags themselves surround pieces of content. There's an opening tag and a closing tag. You can tell the closing tag by the slash after the angle bracket `</title>`. You should also notice that the tags are nested, that is some tags open and close themselves within the middle of other tags. The `<head>` and `<body>` tag are both children of `<html>`, and each of those tags has their own children. We'll learn more HTML down in [Activity 1.2](#activity-12-html). 
 
 For now, the thing to remember is that HTML exists to tell the computer, specifically the browser, what to do with each piece of content. Another way to say this is *semantic markup*. Attaching structural or semantic meaning to content is especially important because not everyone (people or computers) uses their eyes to read the Web. Using valid HTML ensures that the Web is [accessible](https://www.w3.org/WAI/) to everyone, regardless of their ability. For instance, using heading tags like `<h1>` and `<h2>` tell a person about the organization of the page more than making text bold with the `<strong>` tag.  Altering the visual apprearance of the text without the structural headings won't convey the same meaning to a person who uses a screen reader.  Even if you don't go on to build websites for a living, something as simple as adding a caption to any image you publish can improve accessibility. An image without a caption or description is meaningless to someone who can't see it.  Can you find the caption or "alt text" for the image on this page? 
 
-### Text Editors 
-Before we move on, there's one other important thing to understand about writing HTML. HTML documents are plain text documents. You don't write HTML in a Word doc or a Google doc, instead it's best to use a piece of software called a text editor. There are many text editors out there and it's personal preference which one you use. I like one called [Sublime](https://www.sublimetext.com/), but I know others use [Atom](http://atom.io) or [Visual Studio](https://visualstudio.microsoft.com/). Try a few out to see which one suits you. 
+### Plain Text + Text Editors 
+Before we move on, there's one other important thing to understand about writing HTML. HTML documents are plain text documents. The document do not contain styling like bold, italic, etc. Rather than using a Word doc or a Google doc, it's best to use a piece of software called a text editor. There are many text editors out there and it's personal preference which one you use. I like one called [Sublime](https://www.sublimetext.com/), but I know others use [Atom](http://atom.io) or [Visual Studio](https://visualstudio.microsoft.com/). Try a few out to see which one suits you, but know that I'll use Sublime throughout this course.
 
-Even though the text is "plain", text editors have a feature called *syntax highlighting*, which means that the text changes color to help you write good code. When it's time to see what your markup or code can do, you'll need to open it in your browser. 
+Even though the text is "plain", text editors have a feature called *syntax highlighting*, which means that the text changes color to help you write good code. When it's time to see what your markup or code can do, you'll need to open it in your browser or run it in the command line (the next chapter). 
 
 ## CSS
-Our next building block of the web is CSS, or Cascading Style Sheets. We just learned that HTML will add structure to your document, but you need something else to add the pretty colors and images, also known as *style*. A style sheet is a plain text document that lists all the styles that you want to apply to your page. The cascading part means that you can be selective about how elements appear. 
+
+Our next building block of the web is CSS, or Cascading Style Sheets. We just learned that HTML will add structure to your document, but you need something else to add the pretty colors and images, also known as *style*. A style sheet is a plain text document that lists all the styles that you want to apply to your page. The cascading part refers to the priority scheme in CSS. You can apply styles widely (the whole page has the same font) or selectively (except for the menu which uses a different font).
 
 If you analyze this page, what styles would you guess are in play? Are there some elements that look different than other elements? Cascading style sheets allow me to indicate that I want my headings to use a different font than my body text, for instance. 
 
-CSS uses a different syntax than HTML. It can be a little confusing because it relies on HTML tags, but the structure is a little different. Think about HTML as a document, and CSS as a separate list. Here's an example:
+CSS uses a different syntax than HTML. It can be a little confusing because it relies on HTML tags, but the structure is more list-like, rather than linear markup. Think about HTML as a document, and CSS as a separate list. Here's an example:
 
 ```
 body {
@@ -83,7 +85,7 @@ otherProperty: anotherValue;
 
 The syntax takes getting used to, but remember, you do not have to memorize every property or selector. Even experienced Web designers have to look things up. I recommend using the [W3 Schools](w3schools.com/) to find reliable code to copy. 
 
-There's lots to love about CSS. In a relatively simple document, you can control the style of hundreds of HTML documents and ensure consistency. But you can also pinpoint one specific margin or border and change its color or add some padding. 
+There's lots to love about CSS. In a relatively simple document, you can control the style of hundreds of HTML documents and ensure consistency. But you can also pinpoint one specific margin or border and change its color or add some padding. The [CSS Zen Garden](http://csszengarden.com/) site is a great example of the power of CSS. Each version of the site uses the same HTML, but different CSS.
 
 One final note: to ensure that your CSS actually appears on your page, you need to add a piece of code to your HTML document that references the CSS document. We'll do this in [Activity 1.3](#activity-13-css).  
 
@@ -91,17 +93,18 @@ One final note: to ensure that your CSS actually appears on your page, you need 
 ## Your domain 
 There are many reasons you might want your own website. Whether it's for work, school, volunteering, organizing, art, or just for fun, there are plenty of ways to carve out your own corner of the Web. Social media platforms like LinkedIn or Facebook are ubiquitous now, but it used to be that if you wanted to appear in search results, you had to create your own website. If you are a student or navigating the professional world, chances are that 1) someone out there might Google you and 2) you want them to see accurate information and work that you're proud of. A professional website can be a simple single page with limited information, or it can contain your whole life. Chances are, at some point you've relied on information from a personal website. Maybe you found an article you need for a bibliography, a snippet of code that had been giving you trouble, or even an email address for someone who has lost their wallet. 
 
-If you're conducting research in a field, there are others who might be interested in the work you're doing. Check out the sites of others in your intended field of study to see what their websites look like. Some scholars share articles they've written, code libraries, data they've gathered, or new methods they're experimenting with. In the Digital Humanities, a field where many humanists work with data, open and public scholarship is highly valued. Many of the links in this coursebook go to the websites of DH-ers who have been generous to share a tutorial or write up their thoughts on a particular method. 
+If you're conducting research in a field, making art, or selling products, there are others who will be interested in the work you're doing. Check out the sites of others in your intended field of study or career path to see what their websites look like. Some scholars share articles they've written, code libraries, data they've gathered, or new methods they're experimenting with. In the Digital Humanities, a field where many humanists work with data, open and public scholarship is highly valued. Many of the links in this coursebook go to the websites of DH-ers who have been generous enough to share a tutorial or write up their thoughts on a particular method. 
 
-Whether you create a professional portfolio or not, there is a lot to be said for the form of a Website. Most of the scholarship we read, not to mention everything else, has been designed and formatted to be consumed on the Web. Presenting your own work in that format gives you experience with seemingly silly things like getting your images to float nicely with your text or finding a place to reliably store your data. Creating a clean, well-organized website is harder than it looks! Just like it's easier to read a paragraph than to write one, creating a website takes practice. I recommend posting the exercises and projects of this coursebook to your own website. 
+Whether you create a professional portfolio or not, there is a lot to be said for the form of a website. Most of the scholarship we read, not to mention everything else, has been designed and formatted to be consumed on the Web. Presenting your own work in that format gives you experience with seemingly silly things like getting your images to float nicely with your text or finding a place to reliably store your data. Creating a clean, well-organized website is harder than it looks! Just like it's easier to read a paragraph than to write one, creating a website takes practice. 
 
 ### Privacy
-All that being said, you do not have to have a strong presence on the Web. You may have personal and legitimate reasons for not wanting to be found in search results. If you're a student, you may not want your homework following you for decades to come. You have the right to privacy and to completing your coursework in a secure way. 
+All that being said, you do not have to have a strong presence on the Web. You may have personal and legitimate reasons for not wanting to be found in search results. If you're a student, you may not want your homework following you for decades to come. You have the right to privacy and to completing your coursework in a secure way. While you are required to use your domain for this class, you can make it private during the course or remove it after the class is over.
 
 ### Reclaim Hosting
 There are many places to find space on the Web, but many individuals and academic institutions work with [Reclaim Hosting](https://reclaimhosting.com), an education-focused web hosting company. Reclaim offers reasonable rates, good support, and an awareness of the needs of academic projects. Some institutions offer a "domain of one's" program in which affiliated individuals can obtain a domain. 
 
 ### WordPress 
+Whether you knew it or not, chances are you have visited many, many WordPress websites. WordPress is an open-source content management system used by 42% of the web (as claimed by WordPress). Though it's thought of as a blogging platform, it powers plenty of [major websites](https://wordpress.org/showcase/). We'll use WordPress in this class as a platform for blog posts and your final project. It is easy to install on your domain and has plenty of customization options. It's likely that you might need to use WordPress at a future job, internship, or volunteer venture, so it's a good skill to have. Because of its popularity, there are many [resources](https://learn.wordpress.org/) online for learning or troubleshooting WordPress. 
 
 
 ## Activities 

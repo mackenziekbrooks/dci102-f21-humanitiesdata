@@ -5,7 +5,7 @@
 
 
 # Week 0 - First day! 
-* Getting to know you [survey](https://forms.gle/eW9Q2fUVxiJjgQHPA)
+* Getting to know you [survey](https://forms.gle/yjEczMoSnybCTwc58)
 * Class agenda:
 	* introductions + icebreaker: earliest memory of the internet? 
 	* course overview 
@@ -14,8 +14,9 @@
 		* We'll start on [Activity 1.2](#activity-12-html)
 
 **For Tuesday:** 
+
 * Read [What is Humanities Data](what-is-humanities-data.md) by class time. 
-* Spend some time exploring the projects in [Activity 1.1](../what-is-humanities-data/#activity-11).
+* Spend some time exploring the projects in [Activity 1.1](../what-is-humanities-data/#activity-11) and answering the questions (we'll discuss in class).
 * Read [How the Web Works](../how-the-web-works/) by class time. We will do the activities in class, but read through them so you're ready. 
 
 # Week 1 - How the Web Works
@@ -25,6 +26,7 @@
 * Class agenda:
 	* icebreaker: what do you wish you'd known about W&L as a first year?
 	* What is humanities data discussion + [Activity 1.1](../what-is-humanities-data/#activity-11)
+	* Your domain! 
 	* We'll pick back up where we left off on coding activities.
 
 
@@ -58,6 +60,7 @@
 	- Prompt: What brought you to this class? What is your current relationship with technology? Where do you see data in your coursework? Where do you see data in your daily life? What humanities subjects are particularly interesting to you? What are your own goals for this course? What do you want to accomplish/learn/achieve?  
 
 **For Tuesday:**
+
 * Read [Your Computer](your-computer.md) by class time. 
 
 # Week 2 - Your Computer
@@ -69,16 +72,19 @@
 	* talk about Week 2 blog post 
 
 **For Thursday:**
+
 * Finish Activity 2.1 and 2.2 by class time.
 
 ## Thursday, September 23, 2021
 * Class agenda:
-	* icebreaker:  (4:30-4:40)
-	* Introduce Final Project (4:40-5:00)
+	* icebreaker: 
+	* Introduce Final Project 
 	* Start [Activity 2.3](../your-computer/#activity-23) together in breakout rooms (5:00-5:45)
-	* Questions??? (5:45-6:00)
+	* Questions??? 
+
 
 ## Activity log week 2
+
 **Due Monday 9/27 at 9am**
 
 1. Complete [Activity 2.3](../your-computer/#activity-23). In Canvas, submit a document with your answers. It is more important that you show your process, thinking, and attempts than it is that you get everything right.
@@ -117,7 +123,7 @@
 	* Activity 3.4 
 
 ## Activity log week 3
-**Due Monday 10/5 at 9am**
+**Due Monday 10/4 at 9am**
 
 1. Submit your answers from Activities 3.3 via a document in Canvas.  
 2. Blog post #3: Respond to the following prompt in 300-500 words. Time to start thinking about your project! You will conduct this project on your own, though we'll have plenty of opportunities for peer review and feedback. You will choose your topic, so it's time to start brainstorming. What types of humanities-based topics do you find compelling? What subjects are you interested in school and out of school? What might make a good data-driven topic? Maybe you've always wanted to see a map from a particular historical event, or analyze the word choice of a favorite author. 
@@ -159,29 +165,38 @@
 * Read [Network](network-analysis.md) by class time. 
 * Read [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html)
 * Class agenda:
-	* icebreaker: favorite chore (4:30-4:40)
-	* recap week 4 + intro week 5 (4:40-5:00)
-	* [Activity 5.1](../network-analysis/#activity-51) in breakout rooms (5:00-5:30)
-	* Share Activity 5.1 (5:30pm)
-	* Talk about homework for this week
+	* icebreaker: 
+	* [Activity 5.1](../network-analysis/#activity-51) 
 
-**For Thursday**
-
-Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked to share in class on the project you choose! 
 
 ## Thursday, READING DAYS NO CLASS
+
+**For Tuesday**
+
+* Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked to share in class on the project you choose! 
 * Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
+
+# Network Analysis + Spatial Analysis
+
+Reading Days disrupted our routine, so pay attention as we tackle multiple methods in one week! 
+
+## Tuesday, October 19, 2021
+
+* Network Analysis part 2
 * Class agenda:
 	* icebreaker: favorite casserole? (4:30-4:40)
 	* [Activity 5.2](../network-analysis/#activity-52) (4:40-5:10pm)
 	* [Activity 5.3](../network-analysis/#activity-53) (5:15-5:45pm)
 	* Talk about 5.4 and blog post. 
 
+## Thursday, October 21, 2021
+
+
 
 ## Activity log week 5
 
-**Due Monday  at 9am**
+**Due Monday 10/25 at 9am**
 
 1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
 2. Blog post #5: Time to start your research! Prompt:
@@ -196,7 +211,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 ## Tuesday, October 19, 2021
 * Read the [Spatial Analysis](../spatial-analysis) by class time. 
 * Class agenda:
-	* icebreaker: if money/time/obligations/pandemic were no issue, where would go right now? (4:30-4:40)
+	* icebreaker
 	* [Activity 6.1](../spatial-analysis/#activity-61) 
 	* [Activity 6.2](../spatial-analysis/#activity-62) 
 
@@ -209,7 +224,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 ## Activity log week 6
 
-**Due Monday  at 9am**
+**Due Monday 10/25 at 9am**
 
 1. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
 2. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
@@ -241,7 +256,7 @@ Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked 
 
 ## Activity log week 7
 
-**Due Monday 10/12 at 9am**
+**Due Monday 11/8 at 9am**
 
 1. [Activity 7.3](../text-analysis/#activity-73)
 2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. This will be your week 7 blog post. It is okay if it is full of questions! If you feel yourself getting stressed out while writing this proposal, please take a break and feeling out the [project feelings form](https://forms.gle/EHhvVGj1UL7Tyc3U7)! It can be anonymous if you want and will help me prep for our meeting.
