@@ -113,9 +113,9 @@ Whether you knew it or not, chances are you have visited many, many WordPress we
 
 1. Using Sublime Text Editor, start a new document. Open the [W3 Schools tutorial](https://www.w3schools.com/html/html_intro.asp) in a new tab. Let's write some HTML!
 2. First, save the file as `index.html` on your Desktop. Save your file regularly. 
-3. Using the [HTML Basic](https://www.w3schools.com/html/html_basic.asp) as a guide, add the following tags to your document: `<html> <head> <title> <body>`. 
-4. To view your page in the browser, open `index.html` in your browser, usually with the key commands `Ctrl + o`
-5. Explore the tutorial on W3 and add seven more types of tags to the body of your HTML document, including a table, a link, and an image.
+3. Using the [HTML Basic](https://www.w3schools.com/html/html_basic.asp) as a guide, add the following tags to your document: `<html> <head> <title> <body>`. Don't forget to close the tags in the appropriate place.
+4. To view your page in the browser, open `index.html` in your browser, usually with the key commands `Ctrl + o` or by going to File > Open.
+5. Explore the tutorial on W3 and add seven more elements to the body of your HTML document, including a table, a link, and an image.
 6. Create a second HTML page and link the two pages.
 
 ### Activity 1.3: CSS
@@ -126,6 +126,7 @@ Create a separate CSS document and save it as `style.css` in the same place as A
 2. Add a background color.
 3. Change the border on your table. 
 4. Add style to your links when you hover over them. 
+5. Add 5 more style elements to your page. 
 
 
 ### Activity 1.4: Make it live

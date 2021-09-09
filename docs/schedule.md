@@ -52,7 +52,7 @@
     	* Be sure to upload your changes to your website.
 
 ## Activity log week 1
-**Due Monday 8/31 at 9am** 
+**Due Monday 9/20 at 9am** 
 
 1. Complete [Activities 1.2, 1.3, 1.4](../how-the-web-works/#activities). In Canvas, submit the URL webpage that you have coded and uploaded to your domain. 
 2. Complete [Activities 1.5-1.6](../how-the-web-works/#activities). In Canvas, submit the URL to your Wordpress site. There should be evidence that you have customized your Wordpress beyond the basic settings (images, menu, pages, about section, etc). 
@@ -79,7 +79,7 @@
 * Class agenda:
 	* icebreaker: 
 	* Introduce Final Project 
-	* Start [Activity 2.3](../your-computer/#activity-23) together in breakout rooms (5:00-5:45)
+	* Start [Activity 2.3](../your-computer/#activity-23)
 	* Questions??? 
 
 

@@ -11,10 +11,10 @@ This is a lot to get used to at first, so please ask any questions you have earl
 
 |To earn a...|Complete the following|
 |---|---|
-|A| 7 weekly activity logs<br /> 10-12 blog posts<br />  5 project pieces|
-|B| 6 weekly activity logs<br />  8 or 9 blog posts<br />  4 project pieces|
-|C| 5 weekly activity logs<br />  6 or 7 blog posts <br />  3 project pieces|
-|D| less than 5 weekly activity logs<br />  less than 5 blog posts<br />  less than 3 project pieces|
+|A| 7 weekly activity logs<br /> 11-12 blog posts<br />  6 project pieces|
+|B| 6 weekly activity logs<br />  8-10 blog posts<br />  4-5 project pieces|
+|C| 4-5 weekly activity logs<br />  5-7 blog posts <br />  2-3 project pieces|
+|D| less than 4 weekly activity logs<br />  less than 5 blog posts<br />  1 project piece|
 
 ## Tokens
 
@@ -32,13 +32,15 @@ Each week you'll write a 300-500 word blog post on your course website. Prompts 
 
 In the second half of the term, you will design and conduct an independent data-driven project. This project asks you adopt one or more of the methods we've learned so far and apply it to a humanities-based topic of your choosing. You will select a text or body of material, identify potential research questions, create a data model and data set, then visualize and analyze your data in a way that attempts to address your research questions. You can read more about how this will work in the [Process](process.md) section. 
 
-The project will consist of five pieces: 
+The project will consist of six pieces: 
 
-1. Project proposal
-2. Data documentation
-3. Data visualization
-4. Results
-5. Reflection
+1. Project proposal draft
+2. Project proposal
+3. Data documentation
+4. Data visualization
+5. Results
+6. Reflection
+
 
 ### Project Proposal 
 
@@ -46,7 +48,8 @@ First things first, you should have an idea of what you want to do and how you'r
 
 **Specifications:**
 
-* Due Monday, October 19th, at 9am. 
+* Draft due Mondayh, November 4 at 9am.
+* Final version due Monday, November 8th, at 9am. 
 * 750-1000 words.
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * Address the following: 
@@ -64,7 +67,7 @@ Once you've proposed your project, it's time to get working with your data! This
 
 **Specifications:**
 
-* Due Monday, October 26th, at 9am. 
+* Due Monday, November 15th, at 9am. 
 * No word count requirement, but it should be at least 2-3 pages, if not more. The more detail the better! 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * Contains 4 pieces: 
@@ -80,7 +83,7 @@ Your humanities data project should include at least one (really awesome) visual
 
 **Specifications:**
 
-* Final visualizations due Monday, November 9th, at 9am. Draft visualizations due Monday, November 2, at 9am.
+* Final visualizations due Monday, November 29th, at 9am. 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * If your project involves an interactive visualization, it is okay to only one visualization. If you're working with static visualizations, like a graph, chart, or even some maps, create 2-5 visualizations.  
 * Visualizations should be clearly labled, with an accompanying short caption. The caption should explain the significance of this visualization and its connection to your research questions. 
@@ -93,7 +96,7 @@ Time to share your results! In this section, you'll describe the findings of you
 
 **Specifications:**
 
-* Due Monday, November 9th, at 9am. 
+* Due Monday, December 6th, at 9am. 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * 750-1000 words.
 * Address the following:
@@ -110,7 +113,7 @@ No project is complete without time taken to reflect on its successes and lesson
 
 **Specifications:**
 
-* Due Friday, November 13th, at 11:59pm. 
+* Due Friday, December 10th, at 11:59pm. 
 * Submit as a document in Canvas. 
 * 500-1000 words. 
 * Address the following. Your answers should be about the course as a whole, not just your project topic.

@@ -7,7 +7,7 @@ In this section, we'll learn a little bit about how our computer works using a t
 [https://xkcd.com/934/](http://imgs.xkcd.com/comics/mac_pc.png)
 
 ## Do you really know your computer? 
-For many of us, computers are a means to an end, a tool for a job. We use our computers to write papers, send email, talk to our friends and family, watch Netflix, or maybe play a game. Maybe you use your computer to make art, do science, or analyze statistics. Most likely, you have a preference for a PC or a Mac, even if the only reason you can articulate is the way it looks. 
+For many of us, computers are a means to an end, a tool for a job. We use our computers to write papers, send email, talk to our friends and family, watch Netflix, or play games. Maybe you use your computer to make art, do science, or analyze statistics. Most likely, you have a preference for a PC or a Mac, even if the only reason you can articulate is the way it looks. 
 
 But how well do you really know your computer? Do you know what operating system it runs? Which version of that operating system? When was the last time you updated it? Have you ever upgraded your hardware? Do you even know which pieces of your computer are the hardware? As an exercise, see if you can find the name and version of your operating system. What other information can you find out? 
 
@@ -87,7 +87,7 @@ Windows users: [Intro to Powershell](http://programminghistorian.org/lessons/int
 
 In this activity, we'll apply our new command line skills to working with a corpus of textual data. While we're not quite ready to learn about text analysis, when we get there, we will need to have our data ready. You might notice I just threw some new words at you - "corpus" and "textual." Don't freak out, these are just specific words to refer a collection (corpus) of textual (not numbers) data. Instead of a spreadsheet with rows and columns, we'll be working with individual documents groups together into folders. I am purposely giving you a kind of messy, but very much real, dataset to explore. It's okay if you get confused, but try to use these new commands to navigate through the dataset, rather than pointing and clicking. 
 
-1. Download this [zip file](https://wlu.box.com/s/1mc74g28s6ai9uobldn9ak521vxx9d9u) and save it to your Desktop. 
+1. Download the zip file of [this data set](https://github.com/wludh/dataset-RingtumPhi) by clicking the green Code button, then Download ZIP, and save it to your Desktop. 
 2. Unzip the file by double clicking or using an Extract All option. A zip file is a compression method for bundling up a lot of folders into one so it's easy to share. 
 3. While that's unzipping, take some time to explore the [Ring-tum Phi in the Digital Archive](https://dspace.wlu.edu/handle/11021/34762). Don't just look at the content, but think about the experience of browsing this digitized newspaper.  
 3. Open the command line shell, and navigate to the folder you just downloaded. 
