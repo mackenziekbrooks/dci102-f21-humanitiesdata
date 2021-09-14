@@ -27,6 +27,7 @@
 ## Tuesday, September 14, 2021
 
 * Class agenda:
+	* [Women & Tech Portfolio Workshop announcement](https://wludh.github.io/womenandtech)
 	* icebreaker: what do you wish you'd known about W&L as a first year?
 	* What is humanities data? discussion + [Activity 1.1](../what-is-humanities-data/#activity-11)
 		* In your group, each person should claim 1-2 questions on Activity 1.1. Everyone should be prepared to answer the last question. 
