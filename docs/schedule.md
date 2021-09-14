@@ -121,6 +121,7 @@
 
 * Read through Activity 3.4, including the report to prepare for our in-class activity.
 * Read over the [Process](process.md) section and bring questions. 
+* Read [Chapter 4](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3) of Data Feminism.
 * Read [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
 ## Thursday, September 30, 2021
@@ -148,6 +149,7 @@
 
 **For Thursday** 
 
+* Read [Chapter 3](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5) of Data Feminism.
 * Read [When the Designer Shows Up in the Design](https://www.propublica.org/article/when-the-designer-shows-up-in-the-design)
 * Read [The Historian's Macroscope - Making Your Data Legible: A Basic Introduction to Visualizations](http://www.themacroscope.org/?page_id=837) and subsequent sections
 
