@@ -138,7 +138,7 @@ When you opened your HTML files in your browser, you were viewing your files loc
 3. Navigate to the `public_html` folder. 
 4. Create a new folder titled `activities` or something similar. 
 5. Upload all your HTML and CSS files. 
-6. Navigate to your equivalent of `www.yourdomain.com/activities`. What do you see?  
+6. Navigate to your equivalent of `username.wludci.info/activities`. What do you see?  
 
 
 ### Activity 1.5: Install WordPress

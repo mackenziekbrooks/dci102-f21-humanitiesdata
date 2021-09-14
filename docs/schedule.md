@@ -5,13 +5,16 @@
 
 
 # Week 0 - First day! 
+
+## Thursday, September 9, 2021
+
 * Getting to know you [survey](https://forms.gle/yjEczMoSnybCTwc58)
 * Class agenda:
 	* introductions + icebreaker: earliest memory of the internet? 
 	* course overview 
 	* let the coding begin! 
 		* Download [Sublime Text Editor](https://www.sublimetext.com/).
-		* We'll start on [Activity 1.2](#activity-12-html)
+		* We'll start on [Activity 1.2](../how-the-web-works/#activity-12-html)
 
 **For Tuesday:** 
 
@@ -25,14 +28,18 @@
 
 * Class agenda:
 	* icebreaker: what do you wish you'd known about W&L as a first year?
-	* What is humanities data discussion + [Activity 1.1](../what-is-humanities-data/#activity-11)
-	* Your domain! 
-	* We'll pick back up where we left off on coding activities.
+	* What is humanities data? discussion + [Activity 1.1](../what-is-humanities-data/#activity-11)
+		* In your group, each person should claim 1-2 questions on Activity 1.1. Everyone should be prepared to answer the last question. 
+		* Take five minutes to dig into the project and answer your question. 
+		* Share your answers with your group. If you need help or aren't sure, ask your classmates what they found. 
+		* We'll share back with the whole class project by project. 
+	* Test out your domain! 
+	* We'll pick back up where we left off on coding [activities](../how-the-web-works/#activity-12-html).
 
 
 **For Thursday**
 
-* Read [Digital_Humanities](https://web.archive.org/web/20180217210709/https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chapter 1
+* Read [Digital_Humanities](https://web.archive.org/web/20180217210709/https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), chapter 1. Come to class with one question you have about the chapter. Select one quote that struck you or you think summarizes the chapter.
 
 
 ## Thursday, September 16, 2021

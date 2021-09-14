@@ -80,8 +80,8 @@ Let's take a look at two humanities data projects to get a sense what we're talk
 
 Projects: 
 
-* Project 1: [Photogrammar](http://photogrammar.yale.edu/)
-* Project 2: [Robots Reading Vogue](https://dhlab.yale.edu/projects/vogue/)
+* Project 1: [Photogrammar](https://photogrammar.org/)
+* Project 2: [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
 
 Questions: 
 
