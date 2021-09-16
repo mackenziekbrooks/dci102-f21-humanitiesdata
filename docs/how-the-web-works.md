@@ -115,7 +115,7 @@ Whether you knew it or not, chances are you have visited many, many WordPress we
 2. First, save the file as `index.html` on your Desktop. Save your file regularly. 
 3. Using the [HTML Basic](https://www.w3schools.com/html/html_basic.asp) as a guide, add the following tags to your document: `<html> <head> <title> <body>`. Don't forget to close the tags in the appropriate place.
 4. To view your page in the browser, open `index.html` in your browser, usually with the key commands `Ctrl + o` or by going to File > Open.
-5. Explore the tutorial on W3 and add seven more elements to the body of your HTML document, including a table, a link, and an image.
+5. Explore the tutorial on W3 and add seven more elements to the body of your HTML document, including a table, a link, and an image (that's three, find four more new elements to use beyond `h1` and `p`).
 6. Create a second HTML page and link the two pages.
 
 ### Activity 1.3: CSS
@@ -126,7 +126,7 @@ Create a separate CSS document and save it as `style.css` in the same place as A
 2. Add a background color.
 3. Change the border on your table. 
 4. Add style to your links when you hover over them. 
-5. Add 5 more style elements to your page. 
+5. Add style to five more elements. This means you should identify five different elements from your HTML document and find ways to style them. Maybe your `<p>` needs to be indented or your `<a href=""` link should open in a new tab. Think about common styles you see online and try to replicate them.
 
 
 ### Activity 1.4: Make it live
@@ -138,7 +138,7 @@ When you opened your HTML files in your browser, you were viewing your files loc
 3. Navigate to the `public_html` folder. 
 4. Create a new folder titled `activities` or something similar. 
 5. Upload all your HTML and CSS files. 
-6. Navigate to your equivalent of `username.wludci.info/activities`. What do you see?  
+6. Navigate to your equivalent of `https://username.wludci.info/activities`. What do you see?  
 
 
 ### Activity 1.5: Install WordPress
@@ -148,11 +148,11 @@ When you opened your HTML files in your browser, you were viewing your files loc
 3. Find the "install this application" button. 
 4. Work through the installation. You can leave the default settings except for the following:  
 	* Directory  - since you might want to use this domain for other things, let's put course materials in a subdirectory, such as ``http://www.mydomain.info/dci102``. 
-	* Change the administrator username and password to something you are likely to remember.
+	* Change the administrator username and password to something you are likely to remember. Save these credentials for later!
 	* Customize the website title and tagline.
 
 5. Press install to finish up.
-6. You should now be able to access your wordpress admin interface by appending `/wp-admin`to your selected URL.
+6. You should now be able to access your wordpress admin interface by appending `/wp-admin`to your selected URL. 
 
 
 ### Activity 1.6: Customize WordPress

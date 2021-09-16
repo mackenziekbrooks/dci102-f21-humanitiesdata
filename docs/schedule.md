@@ -48,7 +48,6 @@
 * How the Web Works!
 * Class agenda: 
 	* [Icebreaker](http://mackenziekbrooks.github.io/icebreaker-generator/)
-	* Course charter creation
 	* Finish up [coding activities](../how-the-web-works/#activities)
 	* If you're done, partner up and complete the following:
 		* First, share with your partner one realization you had while learning HTML/CSS. It can be technical like "don't forget that slash" or conceptual "I realized I need to read directions more closely."
@@ -76,6 +75,7 @@
 ## Tuesday, September 21, 2021
 * Class agenda: 
 	* icebreaker: 
+	* Course charter creation
 	* start [Activity 2.1](../your-computer/#activity-21) together
 	* talk about Week 2 blog post 
 
@@ -179,7 +179,9 @@
 	* [Activity 5.1](../network-analysis/#activity-51) 
 
 
-## Thursday, READING DAYS NO CLASS
+## Thursday, October 14, 2021
+
+* Reading Days! No class!
 
 **For Tuesday**
 
@@ -187,7 +189,7 @@
 * Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 
-# Network Analysis + Spatial Analysis
+# Week 6 - Network Analysis + Spatial Analysis
 
 Reading Days disrupted our routine, so pay attention as we tackle multiple methods in one week! 
 
@@ -195,19 +197,36 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 
 * Network Analysis part 2
 * Class agenda:
-	* icebreaker: favorite casserole? (4:30-4:40)
-	* [Activity 5.2](../network-analysis/#activity-52) (4:40-5:10pm)
-	* [Activity 5.3](../network-analysis/#activity-53) (5:15-5:45pm)
+	* icebreaker: 
+	* [Activity 5.2](../network-analysis/#activity-52) 
+	* [Activity 5.3](../network-analysis/#activity-53) 
 	* Talk about 5.4 and blog post. 
+
+## Thursday, October 21, 2021
+* Read the [Spatial Analysis](../spatial-analysis) by class time. 
+* Class agenda:
+	* icebreaker
+	* [Activity 6.1](../spatial-analysis/#activity-61) 
+	* [Activity 6.2](../spatial-analysis/#activity-62) 
+
+
+
+
+# Week 6 - Spatial Analysis
+
+## Tuesday, October 19, 2021
+* read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
+* Class agenda:
+	* icebreaker: guilty pleasure movie
+	* [Activity 6.3](../spatial-analysis/#activity-63)
 
 ## Thursday, October 21, 2021
 
 
 
-## Activity log week 5
+## Activity log week 5 + 6
 
 **Due Monday 10/25 at 9am**
-
 1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
 2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
@@ -216,28 +235,8 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	- Your blog post should include 100+ words on the experience of doing this work. What worked for you? What didn't? What did you discover about the research process?
 	- List your 5 sources with 2-sentence annotations. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
 
-# Week 6 - Spatial Analysis
-
-## Tuesday, October 19, 2021
-* Read the [Spatial Analysis](../spatial-analysis) by class time. 
-* Class agenda:
-	* icebreaker
-	* [Activity 6.1](../spatial-analysis/#activity-61) 
-	* [Activity 6.2](../spatial-analysis/#activity-62) 
-
-## Thursday, October 21, 2021
-* read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
-* Class agenda:
-	* icebreaker: guilty pleasure movie (Bryan)
-	* [Activity 6.3](../spatial-analysis/#activity-63)
-
-
-## Activity log week 6
-
-**Due Monday 10/25 at 9am**
-
-1. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
-2. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
+3. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
+4. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
 
 	* [Civil War DC](http://civilwardc.org/)
 	* [Mapping the Second Klu Klux Klan](https://labs.library.vcu.edu/klan/)
@@ -247,7 +246,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 
 
 
-# Week 7 - Text Analysis 
+# Week 7 - Text Analysis + Project Prep
 
 ## Tuesday, October 26, 2021
 * Read [Text Analysis](../text-analysis) by class time. 
@@ -277,37 +276,36 @@ We'll schedule individual meetings this week to discuss your project. Sign up fo
 
 I recommend reading all of the [Process](../process/) section if you haven't already! 
 
-**Due Monday 10/19 at 9am**
+**Due Monday at 9am**
 
 1. Your [final project proposal](../assignments/#project-proposal) is due. 
 2. No blog post!
 
 # Week 9 - Data Modeling
 
-## Tuesday, October 20, 2020
+## Tuesday, November 9, 2021
 
 * Class agenda
-	* icebreaker: favorite scary movie? (4:30-4:40)
-	* Project check-in (4:40-4:50)
-		* Data modeling (4:50-5:05)
-		* Data plan (5:05-5:20)
-		* Data license (5:20-5:30)
-	* Wordpress time! (5:30-5:45)
+	* icebreaker: 
+	* Project check-in 
+		* Data modeling 
+		* Data plan 
+		* Data license 
+	* Wordpress time! 
 
+## Thursday, November  11, 2021
 
-## Thursday, October 22, 2020
-
-* Open office hours: drop in to ask questions, get feedback, or hang out. (4:30-5:30pm)
+* Open office hours: drop in to ask questions, get feedback, or hang out. 
 * Continue to use the [project feelings form](https://docs.google.com/forms/d/e/1FAIpQLScUTvIsFmeCaxZZi2tC6RvmSObOnfqphw7p-9nB84asPNQAJQ/viewform?usp=sf_link) as a place to dump feelings you have about your project! Responses can be anonymous. 
 
-**Due Monday 10/28 at 9am**
+**Due Monday  at 9am**
 
 1. The [data documentation](../assignments/#data-documentation) assignment should be posted to your course website with the link turned in on Canvas.
 2. Blog post week #9: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
 
 # Week 10 - Data Analysis + Visualization
 
-## Tuesday, October 27, 2020
+## Tuesday, November 16, 2021
 
 * Open office hours: drop in to ask questions, get feedback, or hang out. (4:30-5:30pm)
 
@@ -315,7 +313,7 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 
 * Prepare 1-2 draft visualizations for peer review! Post them to your website so your classmate can view them.
 
-## Thursday, October 29, 2020
+## Thursday, November 18, 2201
 
 * Class agenda:
 	* icebreaker
@@ -328,16 +326,15 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 
 # Week 11 - Results + Interpretation
 
-## Tuesday, November 3, 2020
-
-* VOTE
-* Open office hours 
-
-## Thursday, November 5, 2020
+## Tuesday, November 30, 2021
 
 * Open office hours 
 
-**Due Monday 11/9 at 9am** 
+## Thursday, December 2, 2021
+
+* Open office hours 
+
+**Due Monday 12/7 at 9am** 
 
 1. Your project! The [results](../assignments/#results), final visualizations, and updated data are all due. 
 2. Blog post week #11: In preparation to present your project in class, draft a 5 minute talk. You have an option when turning this in! It can be a blog post or an audio or video file that you turn in via Canvas. It can be hard to say everything you want to say in 5 minutes! Try to address the following: 
@@ -350,16 +347,16 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 
 # Week 12 - Wrapping up + Presentation
 
-## Tuesday, November 10, 2020
+## Tuesday, December 7, 2021
 
 * Class agenda: 5 minute project presentations 
 
-## Thursday, November 12, 2020
+## Thursday, December 9, 2021
 
 * Class agenda: 5 minute project presentations 
 
 
-**Due Friday 11/13 at 11:59pm** 
+**Due Friday 12/10/21 at 11:59pm** 
 
 1. [Course reflection](../assignments/#reflection) is due. Upload to Canvas.
 2. Blog post #12: In 200-300 words, reflect on the presentations of your classmates. What was impressive? What was unexpected? What was inspiring? As you think about all the projects together, what can you say about data in the humanities? 

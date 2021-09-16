@@ -85,14 +85,14 @@ Projects:
 
 Questions: 
 
-* What is the goal of this project? Are there guiding research questions?
-* Who are authors? What are their affiliations and roles? Are students involved?
-* How was this project funded?
-* What is the source of the data?
-* How has the data been processed or modified for this project? 
-* What do the visualizations show? Are they interactive? 
-* What tools or technologies were used to build this project?
-* What was interesting about this project? What was confusing? 
+1. What is the goal of this project? Are there guiding research questions?
+2. Who are authors? What are their affiliations and roles? Are students involved?
+3. How was this project funded?
+4. What is the source of the data?
+5. How has the data been processed or modified for this project? 
+6. What do the visualizations show? Are they interactive? 
+7. What tools or technologies were used to build this project?
+8. What was interesting about this project? What was confusing? 
 
 
 ## Resources 
