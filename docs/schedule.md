@@ -48,10 +48,11 @@
 * How the Web Works!
 * Class agenda: 
 	* [Icebreaker](http://mackenziekbrooks.github.io/icebreaker-generator/)
+	* Let's talk about the *Digital_Humanities* chapter.
 	* Finish up [coding activities](../how-the-web-works/#activities)
 	* If you're done, partner up and complete the following:
 		* First, share with your partner one realization you had while learning HTML/CSS. It can be technical like "don't forget that slash" or conceptual "I realized I need to read directions more closely."
-    	* Second, visit each other's hand-coded website (not Wordpress). Share the link in chat. Right click/Ctrl + Click to view page source.
+    	* Second, visit each other's hand-coded website (not Wordpress). Right click/Ctrl + Click to view page source.
     	* Proof your partner's code. Check their syntax. Did they miss any slashes? Is everything in the right place? 
     	* Work together to add the following to each of your websites:
         	* an `iframe` tag which will embed another website onto your own. 
