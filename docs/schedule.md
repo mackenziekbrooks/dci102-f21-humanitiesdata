@@ -99,13 +99,13 @@
 1. Complete [Activity 2.3](../your-computer/#activity-23). In Canvas, submit a document with your answers. It is more important that you show your process, thinking, and attempts than it is that you get everything right.
 2. Blog post #2: Respond to the following prompt in a 500 word blog post on your Wordpress. In Canvas, submit the URL the blog post. Prompt:
 	- To help us conceptualize humanities data projects, let's look at a few more projects and the accompanying reviews. Scholarly articles and books are typically reviewed by other experts in the field. There are established procedures and venues for this kind of work, however DH projects do not always fit into those procedures. [Reviews in DH](https://reviewsindh.pubpub.org) is a new publication that "bridges the gap" by providing reviews of projects. For this blog post, you will explore and write about a project **before** reading the accompanying review, then read the review and see how your analysis lines up. 
-	- First, take a look at the [Review Content](https://reviewsindh.pubpub.org/review-process). 
-	- Next, select a project to review. The projects on this list have been selected to fit with the content of this course. Remember, don't read the review until you've written about the project yourself! 
-		- [The (De)collected War of the Worlds](https://decollected.net/) | [Project Review](https://reviewsindh.pubpub.org/pub/decollected-war-of-the-worlds/release/3)
-		- [Borderlands Archives Cartography](https://www.bacartography.org/) | [Project Review](https://reviewsindh.pubpub.org/pub/borderlands-archives-cartography/release/3)
-		- [Chicana/o Activism in the Southern Plains Through Time and Space](https://plainsmovement.com/) | [Project Review](https://reviewsindh.pubpub.org/pub/chicana-activism-in-the-southern-plains/release/13)
-		- [Ticha](https://ticha.haverford.edu/en/) | [Project Review](https://reviewsindh.pubpub.org/pub/ticha/release/14)
-		- [Lansing Urban Renewal](http://projects.leadr.msu.edu/lansingurbanrenewal/home) | [Project Review](https://reviewsindh.pubpub.org/pub/lansing-urban-renewal-project/release/2)
+	- First, take a look at the [Review Content](https://reviewsindh.pubpub.org/review-process) (scroll down to get to this section. 
+	- Next, select a project to review. The projects on this list have been selected to fit with the content of this course. *Remember, don't read the review until you've written about the project yourself!*
+		- [Twit Lit](https://twitlit.github.io/) | [Project Review](https://reviewsindh.pubpub.org/pub/project-twitter-literature/release/1)
+		- [Shakespeare and Company Project](https://shakespeareandco.princeton.edu/) | [Project Review](https://reviewsindh.pubpub.org/pub/shakespeare-and-company-project/release/1    )
+		- [Mapping Marronage](http://mapping-marronage.rll.lsa.umich.edu/) | [Project Review](https://reviewsindh.pubpub.org/pub/mapping-marronage/release/3)
+		- [Mapping the Gay Guides](https://www.mappingthegayguides.org/) | [Project Review](https://reviewsindh.pubpub.org/pub/mapping-the-gay-guides/release/1)
+		- [The GeoNewsMiner](https://utrecht-university.shinyapps.io/GeoNewsMiner/) | [Project Review](https://reviewsindh.pubpub.org/pub/geonewsminer/release/2)
 	- Write 200-300 on the project, using the *Reviews in DH* guidelines. Remember, you are not an expert yet, so you may not be able to address all aspects of the project.
 	- Now read the accompanying review. What did you learn? How did it compare to your review? Write another 200-300 words on the differences in your reviews and the new concepts or approaches you learned. This blog is about process and learning! You are not expected to know everything already! I want to see how you are engaging with new material. 
 
