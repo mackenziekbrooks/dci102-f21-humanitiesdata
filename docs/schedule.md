@@ -76,20 +76,21 @@
 ## Tuesday, September 21, 2021
 * Class agenda: 
 	* icebreaker: 
-	* Course charter creation
+	* [Course charter creation activity (on Box)](https://wlu.app.box.com/notes/862285371769)
 	* start [Activity 2.1](../your-computer/#activity-21) together
-	* talk about Week 2 blog post 
+	* talk about Week 2 blog post
 
 **For Thursday:**
 
 * Finish Activity 2.1 and 2.2 by class time.
+* Read [We Can All Be Technical With the Right Teacher](https://recompilermag.com/issues/issue-0/we-can-all-be-technical-with-the-right-teacher/) and [Some Things to Think About Before You Exhort Everyone to Code](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/)
 
 ## Thursday, September 23, 2021
 * Class agenda:
-	* icebreaker: 
-	* Introduce Final Project 
-	* Start [Activity 2.3](../your-computer/#activity-23)
-	* Questions??? 
+	* [icebreaker](http://mackenziekbrooks.github.io/icebreaker-generator/)
+	* Talk about readings. Most of you came to this class to be challenged and expand your knowledge of technology. How's that going? How is it making you feel? How do these articles help you process those feelings?
+	* Talk about blog post #2 and final project 
+	* Start [Activity 2.3](../your-computer/#activity-23) and include [RTP Scavenger Hunt](https://wlu.app.box.com/notes/863621413858).
 
 
 ## Activity log week 2

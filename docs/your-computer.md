@@ -89,16 +89,17 @@ In this activity, we'll apply our new command line skills to working with a corp
 
 1. Download the zip file of [this data set](https://github.com/wludh/dataset-RingtumPhi) by clicking the green Code button, then Download ZIP, and save it to your Desktop. 
 2. Unzip the file by double clicking or using an Extract All option. A zip file is a compression method for bundling up a lot of folders into one so it's easy to share. 
-3. While that's unzipping, take some time to explore the [Ring-tum Phi in the Digital Archive](https://dspace.wlu.edu/handle/11021/34762). Don't just look at the content, but think about the experience of browsing this digitized newspaper.  
+3. While that's unzipping, take some time to explore the [Ring-tum Phi in the Digital Archive](https://dspace.wlu.edu/handle/11021/34762). Don't just look at the content, but think about the experience of browsing this digitized newspaper. Let's use this [scavenger hunt](https://wlu.app.box.com/notes/863621413858) to help us explore.
 3. Open the command line shell, and navigate to the folder you just downloaded. 
-4. Use `pwd` `cd` and `ls` to navigate through the RTP-1980s folder.
+4. Use `pwd` `cd` and `ls` to navigate through the folders.
 5. Can you mirror these action using your mouse and the Finder/Windows Explorer window? What are the differences? 
 6. In a Word document, answer the following questions:
-	* What is the basic file structure of the data set as you have received it? What about the file names? * What are the patterns? Where (or when) do the patterns change?
+	* What is the basic file structure of the data set as you have received it? What about the file names? How can you use the file names to make sense of this data?
+    * What are the patterns? Where (or when) do the patterns change?
     * What is the granularity (of the text files? Does each file contain one page? Issue? Reel? Volume? Year?
     * Use cat to read a file. Find the manual for cat. What else can you do with this command?
-    * What happens when you type `ls *.2.txt`?
-    * Can you figure out how to list all the file names in RTP-1980s and send them to a text file?
+    * What happens when you type `ls *.txt`?
+    * Can you figure out how to list all the file names in a single folder and send them to a new text file? You will have to do some Googling to figure this out, but you should have already learned the commands in the tutorials. 
     * Last step: type history and paste your command history into the document. 
 
 
