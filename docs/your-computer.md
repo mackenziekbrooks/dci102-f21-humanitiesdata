@@ -97,7 +97,7 @@ In this activity, we'll apply our new command line skills to working with a corp
 	* What is the basic file structure of the data set as you have received it? What about the file names? How can you use the file names to make sense of this data?
     * What are the patterns? Where (or when) do the patterns change?
     * What is the granularity (of the text files? Does each file contain one page? Issue? Reel? Volume? Year?
-    * Use cat to read a file. Find the manual for cat. What else can you do with this command?
+    * Use cat to read a file. Find the manual for cat. What else can you do with this command? Can you find a way to combine all the text from one year/volume into a single file perhaps?
     * What happens when you type `ls *.txt`?
     * Can you figure out how to list all the file names in a single folder and send them to a new text file? You will have to do some Googling to figure this out, but you should have already learned the commands in the tutorials. 
     * Last step: type history and paste your command history into the document. 
