@@ -117,8 +117,8 @@
 * Class agenda:
 	* icebreaker: 
 	* [Activity 3.1](../data/#activity-31) 
-	* Activity 3.2
-	* Activity 3.3 
+	* [Activity 3.2](../data/#activity-32) 
+	* [Activity 3.3](../data/#activity-33) 
 	
 **For Thursday:**	
 
@@ -131,7 +131,8 @@
 * Class agenda: 
 	* icebreaker: 
 	* Project Q&A 
-	* Activity 3.4 
+	* Talk about readings
+	* [Activity 3.4](../data/#activity-34)
 
 ## Activity log week 3
 **Due Monday 10/4 at 9am**
