@@ -85,7 +85,7 @@ Before you start making your own visualizations, let's practice improving on exi
 
 Let's also make sure you can think critically about professional visualizations that are designed to persuade.
 
-1. Go out into the wilds of the internet and find a visualization that speaks to you. It's election season! You shouldn't have any trouble.
+1. Go out into the wilds of the internet and find a visualization that speaks to you. 
 2. What is this visualization trying to convey? Is it successful? Why or why not? Does the style suit the data? Who is the audience and what is the context? 
 3. What is source of the data of this visualization? Can you find the original data set? What format is it in? 
 4. Can you attempt to recreate the visualization? Or make a better version?  
