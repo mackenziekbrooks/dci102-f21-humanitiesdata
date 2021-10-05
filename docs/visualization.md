@@ -3,15 +3,15 @@ In this section, we'll learn the basics of data visualization.
 [TOC]
 
 ## What is data visualization?
-Data visualization is everywhere. You can hardly turn on the tv, open a book or a new tab without seeing data being visualized. Infographics are prominent examples of data visualization.  Using images to represent  data can help people translate the information into something they better understand.  Commons forms of data visualizations are charts and graphs but maps are also data visualization.  Infact, geographic data is so specialized that we will spend an entire unit focusing just on mapping.  
+Data visualization is everywhere. You can hardly turn on the TV, open a book or a new tab without seeing data being visualized. Infographics are prominent examples of data visualization. Using images to represent data can help people translate the information into something they better understand. Commons forms of data visualizations are charts and graphs but maps are also data visualization. In fact, geographic data is so specialized that we will spend an entire unit focusing just on mapping.  
 
-Can you think of a favorite example of good data visualization? What about a terrible example? What made the visualization work? How did you feel when you realized the visualization was flawed? 
+> Can you think of a favorite example of good data visualization? What about a terrible example? What made the visualization work? How did you feel when you realized the visualization was flawed? 
 
 *[The Historian's Macroscope](http://www.themacroscope.org/)* defines data visualization like this: 
 
 > "A method of deforming, compressing, or otherwise manipulating data in order to see it in new and enlightening ways. A good visualization can turn hours of careful study into a flash of insight, or can convey a complex narrative in a single moment... Visualizations can also lie, confuse, or otherwise misrepresent if used poorly." - [The Historian's Macroscope](http://www.themacroscope.org/?page_id=837)
 
-Visualization has been happening in the humanities for a long time, well before computers. Charles Minard's 1869 chart showing the number of men in Napoleon’s 1812 Russian campaign army is often cited as an early example.
+Visualization has been happening in the humanities for a long time - well before computers. Charles Minard's 1869 chart showing the number of men in Napoleon’s 1812 Russian campaign army is often cited as an early example.
 
 ![Charles Joseph Minard's 1869 diagram](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 [Charles Joseph Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)
@@ -74,26 +74,42 @@ If you're just starting out, use Excel or Google Sheets to get comfortable. If y
 
 ### Activity 4.1
 
-Before you start making your own visualizations, let's practice improving on existing visualizations. 
+Before you start making your own visualizations, let's practice improving on existing visualizations. This activity focuses on the mechanics and aesthetics of visualizations.
+
+Groups: 
+
+1. Nayongi, Kaitlyn, Amanda, Lily
+2. Emma, Caitlyn, John, George
+3. Kit, Gavron, Maya, Quinn
+4. Elizabeth, Merrill, Richard
+5. Gabe, Mary Beth, Mark
 
 1. Visit [viz.wtf](https://viz.wtf/) or [HelpmeViz](https://policyviz.com/helpmeviz/). 
 2. Browse the examples, then pick 1-2 visualizations to analyze as a group. 
-3. Make a list of what's wrong with the visualization. Be specific! What was the goal of the visualization? How has it failed to meet that goal? Record your results in a Boxnote in our [shared Box folder](https://wlu.app.box.com/folder/122745147368).
-4. How can this visualization be improved? Be specific! 
+3. Answer the following in a [Box note](https://wlu.app.box.com/folder/147257344438) for your group. You will turn this in as homework this week!
+	* First, link or embed your visualization or set of visualizations. List the names in your group. 
+	* What type of visualization is this? (Bar chart, line graph, etc?)
+	* What was the intended goal of this visualization?
+	* What went wrong? Be specific! List as many things as possible.
+	* How could this visualization be improved? Be specific! 
+	* Finally, using the materials provided, construct an improved version of this visualization. Snap a photo and add it to your Box note.
 
 ### Activity 4.2
 
-Let's also make sure you can think critically about professional visualizations that are designed to persuade.
+Let's also make sure you can think critically about professional visualizations that are designed to persuade. This activity focuses on the audience and argument of visualizations. Go out into the wilds of the internet and find a visualization that speaks to you. Answer the following on your own. You will be turning in a more developed answer as homework.
 
-1. Go out into the wilds of the internet and find a visualization that speaks to you. 
-2. What is this visualization trying to convey? Is it successful? Why or why not? Does the style suit the data? Who is the audience and what is the context? 
-3. What is source of the data of this visualization? Can you find the original data set? What format is it in? 
-4. Can you attempt to recreate the visualization? Or make a better version?  
+* What is this visualization trying to convey? Is it successful? Does it convince you? Why or why not? Would the piece work without the visualization?
+* Does the style suit the data? What other visualization styles would work?
+* Who made this visualization? What is their background?
+* Who is the audience and what is the context? 
+* What is source of the data of this visualization? Can you find the original data set? Where did you look? What format is it in? 
+* What else could be done with this data set? Other research questions? Other visualizations?
+* Can you attempt to recreate this visualization? Improve on it? What tools/skills would you need?
 
 
 ### Activity 4.3
 
-Now it's time to try your hand at creating your own visualization. Let's start with the Coeducation Report data set. You can use this [assembled data set](https://wlu.box.com/s/2wjb7yyen1ocluqng9d9vpqhq6mc3195) or work on the one we assembled in [Google Sheets](https://docs.google.com/spreadsheets/d/1VLhYGvwZDPXsIckNWx9w5QFTIkFypSyE6fRT4It-zDk/edit?usp=sharing). Don't forget to download it to your own computer, so you don't alter the data for anyone else. 
+Now it's time to try your hand at creating your own visualization. Let's start with the Coeducation Report data set. You can use this [assembled data set](https://wlu.app.box.com/file/868731673760) or work on the one we assembled in [Google Sheets](https://docs.google.com/spreadsheets/d/1A8TL_uhRV5Y1XCLmXtR7IMFo_-Y7uhhyiSnjyybfNKE/edit?usp=sharing). Don't forget to download it to your own computer, so you don't alter the data for anyone else. 
 
 1. Brainstorm some potential visualizations. What do you want to communicate about this data set? What's interesting about it? How can a visualization help show an intriguing or important part of this data? 
 2. Narrow your list down to one or two ideas. What type of visualizations are you interested in using and how will they help you get at the information you want to convey? It might help to draw your viz on paper first so you have an idea of what you want to create. 

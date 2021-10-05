@@ -159,9 +159,10 @@
 ## Tuesday, October 5, 2021
 
 * Class agenda:
-	* icebreaker: 
-	* Activity 4.1
-	* Activity 4.2 
+	* icebreaker
+	* Review last week
+	* [Activity 4.1](../visualization/#activity-41)
+	* [Activity 4.2](../visualization/#activity-42)
 
 **For Thursday** 
 
@@ -173,22 +174,26 @@
 * Class agenda:
 	* icebreaker: 
 	* Discuss readings 
-	* Activity 4.3 
+	* [Activity 4.3](../visualization/#activity-43)
 	* Regroup 
 
 ## Activity log week 4
 
 **Due Monday 10/11 at 9am**
 
-1. Turn in the results of Activity 4.1 on Canvas.
-2. Write 100-200 words on the visualization you found, addressing the questions in Activity 4.2. Turn this in as a document on Canvas. 
-2. Blog post #4: For your blog post this week, go through the same process in [Activity 4.3](../visualization/#activity-43) with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. Post several visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? What have you learned about data visualization? 
+1. Turn in the results of [Activity 4.1](../visualization/#activity-41) on Canvas.
+2. Write 200-300 words on the visualization you found, addressing the questions in [Activity 4.2](../visualization/#activity-42). Select one passage from the *Data Feminism* chapter that relates to your analysis (this doesn't go into your word count). Turn this in as a document on Canvas. Be sure to include a link to the visualization.
+2. Blog post #4: For your blog post this week, go through the same process in [Activity 4.3](../visualization/#activity-43) with the Cemetery data set. You may have to clean up fields in Open Refine or Excel to get the results you're looking for. Post at least 2-3 visualizations, along with a 300-400 word blog post on your results. What is your goal with these visualizations? How do they help you understand the data? How did you put these graphs together? Did you have to clean the data or look up how to create the graph? What did you struggle with? Are you happy with the results? What might you want to do with more time/skills? What have you learned about data visualization? 
+
+**For Tuesday**
+
+* Read [Network](network-analysis.md) by class time. 
+* Read [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html)
 
 # Week 5 - Network Analysis 
 
 ## Tuesday, October 12, 2021
-* Read [Network](network-analysis.md) by class time. 
-* Read [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html)
+
 * Class agenda:
 	* icebreaker: 
 	* [Activity 5.1](../network-analysis/#activity-51) 
