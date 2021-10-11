@@ -104,7 +104,7 @@ To generate a network, visit the `Graph` tab. Use the menu on the right of the s
 
 ### Activity 5.1 
 
-In order to practice using the terminology and methods of network analysis, let's design a network from scratch. I recommend using the whiteboard feature in Zoom, a Google doc/drawing, or a Box note for this exercise. 
+In order to practice using the terminology and methods of network analysis, let's design a network from scratch. Use the materials provided. 
 
 1. In your group, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show?
 2. List all the nodes in your network. Do they have types? Do they have attributes? Is this a bi-modal or multi-modal network?
@@ -114,7 +114,7 @@ In order to practice using the terminology and methods of network analysis, let'
 ### Activity 5.2
 Let's practice putting together a network visualization with sample data. 
 
-1. Download the [results](https://docs.google.com/spreadsheets/d/1PwfV7-_sTI-YMkVxTufSQ0QIgA3zOGaGo-aFeePXsCY/edit?usp=sharing) of our super duper quick survey. 
+1. Download the [results](https://docs.google.com/spreadsheets/d/1cUxojS6pQIkQCu_QVyPhZg2_yRuGM-XQuTqnMIcR5EE/edit?usp=sharing) of our super duper quick survey. 
 2. To create an edge list, open the results in Open Refine. Follow these instructions carefully!
 	* Remove the timestamp column.
 	* From the first column after the names, select Transpose > Transpose cells across columns into rows.
