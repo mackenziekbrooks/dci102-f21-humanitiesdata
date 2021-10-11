@@ -84,6 +84,8 @@ Groups:
 4. Elizabeth, Merrill, Richard
 5. Gabe, Mary Beth, Mark
 
+*** 
+
 1. Visit [viz.wtf](https://viz.wtf/) or [HelpmeViz](https://policyviz.com/helpmeviz/). 
 2. Browse the examples, then pick 1-2 visualizations to analyze as a group. 
 3. Answer the following in a [Box note](https://wlu.app.box.com/folder/147257344438) for your group. You will turn this in as homework this week!

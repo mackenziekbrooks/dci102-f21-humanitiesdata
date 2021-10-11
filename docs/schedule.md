@@ -196,7 +196,9 @@
 
 * Class agenda:
 	* icebreaker: 
+	* [Take this data generation survey real quick](https://forms.gle/ThfBFBjfR5hQ3Kv17)
 	* [Activity 5.1](../network-analysis/#activity-51) 
+	* [Activity 5.2](../network-analysis/#activity-52)
 
 
 ## Thursday, October 14, 2021
@@ -205,7 +207,7 @@
 
 **For Tuesday**
 
-* Prepare for [Activity 5.2](../network-analysis/#activity-52). You will be asked to share in class on the project you choose! 
+* Prepare for [Activity 5.2](../network-analysis/#activity-53). You will be asked to share in class on the project you choose! 
 * Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 
@@ -217,8 +219,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 
 * Network Analysis part 2
 * Class agenda:
-	* icebreaker: 
-	* [Activity 5.2](../network-analysis/#activity-52) 
+	* icebreaker:  
 	* [Activity 5.3](../network-analysis/#activity-53) 
 	* Talk about 5.4 and blog post. 
 
@@ -237,7 +238,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 ## Tuesday, October 19, 2021
 * read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
 * Class agenda:
-	* icebreaker: guilty pleasure movie
+	* icebreaker: 
 	* [Activity 6.3](../spatial-analysis/#activity-63)
 
 ## Thursday, October 21, 2021
@@ -247,7 +248,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 ## Activity log week 5 + 6
 
 **Due Monday 10/25 at 9am**
-1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-53). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
+1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-54). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
 2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
 	- Set a timer for 25 minutes and do some gathering of potential sources and contextual material. Remember your ideas from week 3? This is your chance to explore further. Keep a log of what you find. 

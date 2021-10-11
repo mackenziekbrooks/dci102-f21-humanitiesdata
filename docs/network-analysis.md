@@ -112,24 +112,6 @@ In order to practice using the terminology and methods of network analysis, let'
 4. Think about centrality. Do you have an ego network? How might you start calculating centrality?
 
 ### Activity 5.2
-
-Let's continue practicing our skills reviewing established projects. Instead of a blog post, be prepared to talk about this project with your classmates. Select one of the following projects to explore. Use the review criteria from [Reviews in DH](https://reviewsindh.pubpub.org/review-process) to analyze the project. Make some notes in if you need to. 
-
-* [Kindred Britain](http://kindred.stanford.edu/#)
-* [Belfast Group Poetry](https://belfastgroup.digitalscholarship.emory.edu/)
-* [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/)
-* [Linked Jazz](https://linkedjazz.org/)
-* [Viral Texts](https://viraltexts.org/)
-
-During class, we'll divide into groups to discuss the project you chose. 
-
-1. What is this project about? What are the goals?
-2. Where/what is the data? 
-3. How is this a humanities project?
-4. How effective are the network visualizations? Why do you say that?
-5. What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? 
-
-### Activity 5.3
 Let's practice putting together a network visualization with sample data. 
 
 1. Download the [results](https://docs.google.com/spreadsheets/d/1PwfV7-_sTI-YMkVxTufSQ0QIgA3zOGaGo-aFeePXsCY/edit?usp=sharing) of our super duper quick survey. 
@@ -146,6 +128,23 @@ Let's practice putting together a network visualization with sample data.
 6. Test out the checkboxes to see how that changes your visualization. What do the Facets do at the bottom of the screen? How do you download this image?
 7. What are the limits of Palladio? 
 
+### Activity 5.3
+
+Let's continue practicing our skills reviewing established projects. Instead of a blog post, be prepared to talk about this project with your classmates. Select one of the following projects to explore. Use the review criteria from [Reviews in DH](https://reviewsindh.pubpub.org/review-process) to analyze the project. Make some notes in if you need to. 
+
+* [Kindred Britain](http://kindred.stanford.edu/#)
+* [Belfast Group Poetry](https://belfastgroup.digitalscholarship.emory.edu/)
+* [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/)
+* [Linked Jazz](https://linkedjazz.org/)
+* [Viral Texts](https://viraltexts.org/)
+
+During class, we'll divide into groups to discuss the project you chose. 
+
+1. What is this project about? What are the goals?
+2. Where/what is the data? 
+3. How is this a humanities project?
+4. How effective are the network visualizations? Why do you say that?
+5. What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? 
 
 ### Activity 5.4
 
