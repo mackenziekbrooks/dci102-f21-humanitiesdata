@@ -168,3 +168,4 @@ Now try putting together a network visualization from our trusty cemetery datase
 * [An Entry of One’s Own, or Why Are There So Few Women In the Early Modern Social Network?](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html)
 * [Network Analysis Fundamentals](http://www.themacroscope.org/?page_id=892)
+* [The Network Turn: Changing Perspectives in the Humanities](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)
