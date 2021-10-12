@@ -207,7 +207,7 @@
 
 **For Tuesday**
 
-* Prepare for [Activity 5.2](../network-analysis/#activity-53). You will be asked to share in class on the project you choose! 
+* Prepare for [Activity 5.3](../network-analysis/#activity-53). You will be asked to share in class on the project you choose! 
 * Read [An Entry of One's Own](https://6dfb.tumblr.com/post/44879380376/an-entry-of-ones-own-or-why-are-there-so-few)
 * Read the first few sections of the [Process](../process/#picking-a-topic) chapter again.
 
