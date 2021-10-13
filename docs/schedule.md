@@ -203,7 +203,7 @@
 
 ## Thursday, October 14, 2021
 
-* Reading Days! No class!
+* Reading Days! No class! Enjoy yourselves! Take a break! Touch grass! 
 
 **For Tuesday**
 
@@ -218,37 +218,27 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 ## Tuesday, October 19, 2021
 
 * Network Analysis part 2
+* FYI - we'll be observed by my colleague Julie Kane today. She's nice I promise. 
 * Class agenda:
 	* icebreaker:  
 	* [Activity 5.3](../network-analysis/#activity-53) 
-	* Talk about 5.4 and blog post. 
+	* Gephi activity?
+
 
 ## Thursday, October 21, 2021
 * Read the [Spatial Analysis](../spatial-analysis) by class time. 
 * Class agenda:
 	* icebreaker
 	* [Activity 6.1](../spatial-analysis/#activity-61) 
-	* [Activity 6.2](../spatial-analysis/#activity-62) 
+	* Talk about 5.4 and blog post (research stuff).
 
 
-
-
-# Week 6 - Spatial Analysis
-
-## Tuesday, October 19, 2021
-* read [What is Spatial History?](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29&project_id) and [The Contested Nature of Historical GIS](http://ezproxy.wlu.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=iih&AN=91840444&site=ehost-live) by class time.
-* Class agenda:
-	* icebreaker: 
-	* [Activity 6.3](../spatial-analysis/#activity-63)
-
-## Thursday, October 21, 2021
-
-
-
-## Activity log week 5 + 6
+## Activity log (week 5/network analysis)
 
 **Due Monday 10/25 at 9am**
-1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-54). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? 
+
+1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-54). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? Find one external source from our library or the Web that would help you learn more about the people.
+
 2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
 	- Set a timer for 25 minutes and do some gathering of potential sources and contextual material. Remember your ideas from week 3? This is your chance to explore further. Keep a log of what you find. 
@@ -256,8 +246,29 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	- Your blog post should include 100+ words on the experience of doing this work. What worked for you? What didn't? What did you discover about the research process?
 	- List your 5 sources with 2-sentence annotations. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
 
-3. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
-4. Blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
+# Week 7 - Mapping + Text Analaysis
+
+## Tuesday, October 26, 2021
+* Prep for today with [Activity 6.2](../spatial-analysis/#activity-62)
+* Agenda:
+	* icebreaker
+	* [Activity 6.3](../spatial-analysis/#activity-63)
+
+**For Thursday 10/28:**
+* Read [Text Analysis](../text-analysis) by class time. 
+* Print out this [activity packet](https://wlu.app.box.com/folder/123798425174) before class! 
+
+## Thursday, October 28, 2021
+* Class agenda:
+	* icebreaker:
+	* [Activity 7.1](../text-analysis/#activity-71)
+
+## Activity Log Week 6/Mapping
+
+**Due 11/1 at 9am**
+
+1. To complete [Activity 6.3](../spatial-analysis/#activity-63), select a second mapping platform to explore (not the one you looked at in class). In a 300-500 words, answer the questions from Activity 6.3, then provide additional commentary on the differences between this platform and the one you looked at in class. Consider *how* to use the platform and *what* can be created with it. Use the Coeducation Report data set to create a map, then embed it into your post. 
+2. Week 6 blog post: Now that we've had more practice reviewing projects, it's time to write your own from scratch! Using the [Reviews in DH](https://reviewsindh.pubpub.org/review-process) Review Content criteria, write a 500 word review of one of the following spatial projects: 
 
 	* [Civil War DC](http://civilwardc.org/)
 	* [Mapping the Second Klu Klux Klan](https://labs.library.vcu.edu/klan/)
@@ -266,41 +277,31 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	* [DECIMA](https://decima-map.net/)
 
 
+# Week 7 - Text Analysis + Project Planning
 
-# Week 7 - Text Analysis + Project Prep
+## Tuesday, November 2, 2021
+* Election day!
+* Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart
+* Sign up for a consult time here: 
+* Agenda
+	* icebreaker!
+	* [Activity 7.2](../text-analysis/#activity-72-voyant) 
 
-## Tuesday, October 26, 2021
-* Read [Text Analysis](../text-analysis) by class time. 
-* Print out this [activity packet](https://wlu.app.box.com/folder/123798425174) before class! 
-* Class agenda:
-	* icebreaker: favorite hike or outdoor location in Rockbridge county? 
-	* 4 Ways to Read activity (4:45-6)
+**Due before your consult with me:**
 
-## Thursday, October 28, 2021
-* Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart 
-* Sign up for a [meeting time on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka).
-* Class agenda: 
-	* icebreaker: comfort book anyone?
-	* Presentation opportunities: [Science, Society, and the Arts](https://my.wlu.edu/ssa-2021) + [Cheakapeake DH Consortium Conference](https://chesapeakedh.github.io/conference-2021.html)
-	* [Activity 7.2](../text-analysis/#activity-72-voyant)
+Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. It is okay if it is full of questions! This will be your week 7 blog post on Canvas.
+
+## Thursday, November 4, 2021
+
+* We won't meet as a class today in favor of individual consultations about your projects. Don't forget to turn in your project proposal by 9am! 
 
 ## Activity log week 7
 
 **Due Monday 11/8 at 9am**
 
 1. [Activity 7.3](../text-analysis/#activity-73)
-2. Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. This will be your week 7 blog post. It is okay if it is full of questions! If you feel yourself getting stressed out while writing this proposal, please take a break and feeling out the [project feelings form](https://forms.gle/EHhvVGj1UL7Tyc3U7)! It can be anonymous if you want and will help me prep for our meeting.
-
-# Week 8 - Project Planning
-
-We'll schedule individual meetings this week to discuss your project. Sign up for a time [on Box](https://wlu.box.com/s/2dukeit9hvyz899v0nqvr67vblurnzka). 
-
-I recommend reading all of the [Process](../process/) section if you haven't already! 
-
-**Due Monday at 9am**
-
-1. Your [final project proposal](../assignments/#project-proposal) is due. 
-2. No blog post!
+2. Week 7 Blog post: 150-200 on the revisions you made to your proposal as a result of our conversation and further research.
+2. Your [final project proposal](../assignments/#project-proposal) is due. 
 
 # Week 9 - Data Modeling
 
@@ -319,7 +320,7 @@ I recommend reading all of the [Process](../process/) section if you haven't alr
 * Open office hours: drop in to ask questions, get feedback, or hang out. 
 * Continue to use the [project feelings form](https://docs.google.com/forms/d/e/1FAIpQLScUTvIsFmeCaxZZi2tC6RvmSObOnfqphw7p-9nB84asPNQAJQ/viewform?usp=sf_link) as a place to dump feelings you have about your project! Responses can be anonymous. 
 
-**Due Monday  at 9am**
+**Due Monday at 9am**
 
 1. The [data documentation](../assignments/#data-documentation) assignment should be posted to your course website with the link turned in on Canvas.
 2. Blog post week #9: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?

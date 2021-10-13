@@ -106,7 +106,7 @@ To generate a network, visit the `Graph` tab. Use the menu on the right of the s
 
 In order to practice using the terminology and methods of network analysis, let's design a network from scratch. Use the materials provided. 
 
-1. In your group, select a topic for your network. It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show?
+1. [In your group, select a topic for your network](https://wlu.app.box.com/notes/871866042025). It should be approachable for all members of your group. Game of Thrones? W&L students? Sports? A novel or TV show?
 2. List all the nodes in your network. Do they have types? Do they have attributes? Is this a bi-modal or multi-modal network?
 3. Start making connections or edges in your network. What type of edges do you need? Do the edges have a weight?
 4. Think about centrality. Do you have an ego network? How might you start calculating centrality?
@@ -130,7 +130,7 @@ Let's practice putting together a network visualization with sample data.
 
 ### Activity 5.3
 
-Let's continue practicing our skills reviewing established projects. Instead of a blog post, be prepared to talk about this project with your classmates. Select one of the following projects to explore. Use the review criteria from [Reviews in DH](https://reviewsindh.pubpub.org/review-process) to analyze the project. Make some notes in if you need to. 
+Let's continue practicing our skills reviewing established projects. Instead of a blog post, be prepared to talk about this project with your classmates. Select one of the following projects to explore. Use the review criteria from [Reviews in DH](https://reviewsindh.pubpub.org/review-process) to analyze the project.  
 
 * [Kindred Britain](http://kindred.stanford.edu/#)
 * [Belfast Group Poetry](https://belfastgroup.digitalscholarship.emory.edu/)
@@ -138,13 +138,16 @@ Let's continue practicing our skills reviewing established projects. Instead of 
 * [Linked Jazz](https://linkedjazz.org/)
 * [Viral Texts](https://viraltexts.org/)
 
-During class, we'll divide into groups to discuss the project you chose. 
+During class, we'll divide into groups to discuss the project you chose. Add your answers to a Box note for your group. 
 
 1. What is this project about? What are the goals?
-2. Where/what is the data? 
+2. Where/what is the data? How was it been gathered? Cleaned? Manipulated?
 3. How is this a humanities project?
 4. How effective are the network visualizations? Why do you say that?
 5. What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? 
+6. Who is in the network? Who might be left out of it? 
+7. What technology is being used?
+8. What research questions are in play? What other questions can you imagine? 
 
 ### Activity 5.4
 
@@ -152,7 +155,7 @@ Now try putting together a network visualization from our trusty cemetery datase
 
 1. First, what are our questions? Who are the people in our data set? What networks should try to explore? 
 2. Next, we need an edge list. We know that this is a two column spreadsheet, what belongs in each column?
-3. Go ahead and put some data together. This is a big data set, so we'll have to start somewhere. 
+3. Go ahead and put some data together. This is a big data set, so we'll have to start somewhere. You are free to slice and dice this data to come up with a more manageable network, but give some thoughts to what those parameters will be.
 4. Upload your data into [Palladio](https://hdlab.stanford.edu/palladio/) and create your network.
 5. What worked? What didn't? 
 
