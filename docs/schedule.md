@@ -246,7 +246,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	- Your blog post should include 100+ words on the experience of doing this work. What worked for you? What didn't? What did you discover about the research process?
 	- List your 5 sources with 2-sentence annotations. In the first sentence, summarize the source. In the second sentence, say something about why this source is useful for your project. 
 
-# Week 7 - Mapping + Text Analaysis
+# Week 7 - Mapping + Text Analysis
 
 ## Tuesday, October 26, 2021
 * Prep for today with [Activity 6.2](../spatial-analysis/#activity-62)
