@@ -143,21 +143,30 @@ During class, we'll divide into groups to discuss the project you chose. Add you
 1. What is this project about? What are the goals?
 2. Where/what is the data? How was it been gathered? Cleaned? Manipulated?
 3. How is this a humanities project?
-4. How effective are the network visualizations? Why do you say that?
+4. How effective are the network **visualizations**? Why do you say that?
 5. What about the design, layout, and organization of the project? What works? What doesn't? How does it contribute to your understanding of the project? 
 6. Who is in the network? Who might be left out of it? 
 7. What technology is being used?
 8. What research questions are in play? What other questions can you imagine? 
 
 ### Activity 5.4
+ 
+Since you had such an easy time with Palladio, let's take our networks to the next level with [Gephi](https://gephi.org/). We'll use our [class sample data](https://docs.google.com/spreadsheets/d/1cUxojS6pQIkQCu_QVyPhZg2_yRuGM-XQuTqnMIcR5EE/edit?usp=sharing) from last week, plus we'll need an [attribute table](https://docs.google.com/spreadsheets/d/16j_dBrH0MqJQGRvNEOK1KPc85BjJJaQ7VUEngcSEDug/edit?usp=sharing). 
+
+1. First, be sure you have your edge list formatted correctly. It should have two columns - one labeled **Source** and one labeled **Target**. We did this tranformation in Activity 5.2
+2. Next, we need to work on the attribute table. We'll fill this out together. 
+3. Download both files as `.csv`. 
+4. We'll use these [Gephi instructions](../assets/GephiInstructions-fall2021.docx) to create our network (right click to download if the link doesn't work. 
+
+### Activity 5.5
 
 Now try putting together a network visualization from our trusty cemetery dataset. 
 
-1. First, what are our questions? Who are the people in our data set? What networks should try to explore? 
+1. First, what are your questions? Who are the people in our data set? What networks should try to explore? You might have started on a line of thinking during the visualization week. Feel free to continue that! But try to identify questions that connect people to other people (not people to grave sites).
 2. Next, we need an edge list. We know that this is a two column spreadsheet, what belongs in each column?
-3. Go ahead and put some data together. This is a big data set, so we'll have to start somewhere. You are free to slice and dice this data to come up with a more manageable network, but give some thoughts to what those parameters will be.
-4. Upload your data into [Palladio](https://hdlab.stanford.edu/palladio/) and create your network.
-5. What worked? What didn't? 
+3. Go ahead and put some data together. This is a big data set, so we'll have to start somewhere. You are free to slice and dice this data to come up with a more manageable network, but give some thoughts to what those parameters will be. You could pick a family or a section for instance.
+4. Upload your data into [Palladio](https://hdlab.stanford.edu/palladio/) or Gephi to create your network.
+5. What worked? What didn't? Is network analysis the right method to use here? What can you learn by the network visualization and what might be obscured? 
 
 
 

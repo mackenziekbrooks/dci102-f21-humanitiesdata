@@ -222,7 +222,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 * Class agenda:
 	* icebreaker:  
 	* [Activity 5.3](../network-analysis/#activity-53) 
-	* Gephi activity?
+	* [Activity 5.4](../network-analysis/#activity-54)
 
 
 ## Thursday, October 21, 2021
@@ -230,14 +230,14 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 * Class agenda:
 	* icebreaker
 	* [Activity 6.1](../spatial-analysis/#activity-61) 
-	* Talk about 5.4 and blog post (research stuff).
+	* Talk about 5.5 and blog post (research stuff).
 
 
 ## Activity log (week 5/network analysis)
 
 **Due Monday 10/25 at 9am**
 
-1. Spend some more time with the data and networks of [Activity 5.4](../network-analysis/#activity-54). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? Find one external source from our library or the Web that would help you learn more about the people.
+1. Spend some more time with the data and networks of [Activity 5.5](../network-analysis/#activity-55). Upload one network visualization to your website with 150-300 words on what worked and what didn't. What is this network telling you? What is it obscuring? What else do you need to know about the people in this network? Find one external source from our library or the Web that would help you learn more about the people.
 
 2. Blog post #5: Time to start your research! Prompt:
 	- Review the [Research](../process/#research) section of the Process chapter. 
