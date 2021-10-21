@@ -138,7 +138,7 @@ Let's continue practicing our skills reviewing established projects. Instead of 
 * [Linked Jazz](https://linkedjazz.org/)
 * [Viral Texts](https://viraltexts.org/)
 
-During class, we'll divide into groups to discuss the project you chose. Add your answers to a Box note for your group. 
+During class, we'll divide into groups to discuss the project you chose. Add your answers to a [Box note for your group](https://wlu.app.box.com/folder/148325460861). 
 
 1. What is this project about? What are the goals?
 2. Where/what is the data? How was it been gathered? Cleaned? Manipulated?

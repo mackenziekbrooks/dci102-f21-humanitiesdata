@@ -1,7 +1,7 @@
 
 **Jump to:**
 
-[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
+[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-network-analysis-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
 
 
 # Week 0 - First day! 
@@ -250,8 +250,14 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 
 ## Tuesday, October 26, 2021
 * Prep for today with [Activity 6.2](../spatial-analysis/#activity-62)
+* Read the following by class time:
+	* [What is the Spatial Turn?](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+	* ['ICE Is Everywhere': Using Library Science to Map the Separation Crisis](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/) and the [Torn Apart](http://xpmethod.columbia.edu/torn-apart/volume/2/index) project.
+	* [When Maps Lie](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps)
+	* Look at some [persuasive maps](https://persuasivemaps.library.cornell.edu/) or this [StoryMap from the Library of Congress](https://www.loc.gov/ghe/cascade/index.html?appid=ddf9824ff56b4fb6a0f3e11515716738&loclr=blogmap&bookmark=1157) on "Maps That Changed the World.""
 * Agenda:
 	* icebreaker
+	* Readings discussion 
 	* [Activity 6.3](../spatial-analysis/#activity-63)
 
 **For Thursday 10/28:**

@@ -82,8 +82,8 @@ To start thinking spatially, let's create a map from scratch.
 
 1. Gather some blank paper and your favorite writing/drawing/coloring instruments. 
 2. Without consulting any existing maps, draw a map of campus. 
-3. As a group, we'll compare our maps with each other. How are our maps similar or different? What choices did you make? How are your choices informed by your hobbies, extracurriculars, personality, abilities, etc? What was challenging? What makes our campus hard/easy to map? 
-4. Now, let's look at the existing [campus map](https://campusmap.wlu.edu/) as well as images from the firm redesigning some of our spaces on campus. 
+3. In a small group, we'll compare our maps with each other. How are your maps similar or different? What choices did you make? How are your choices informed by your hobbies, extracurriculars, personality, abilities, etc? What was challenging? What makes our campus hard/easy to map? 
+4. Now, let's look at the existing [campus map](https://campusmap.wlu.edu/) as well as [images](https://wlu.app.box.com/file/875580429816) from the firm redesigning some of our spaces on campus. How did they approach our campus? What did they privilege or ignore? Does this depiction of space match your own perceptions? 
 
 ### Activity 6.2 
 Let's continue building on our Coeducation Report data set so we can use it to try out some mapping tools in the next activity. Our data set needs coordinates, not just location names, for it to be easily to process by the mapping tools. Before I tell you exactly how to add coordinates, spend some time on Google. What services are out there for converting location names to coordinates? How do they work? What formats do they accept or produce? Remember, while it might be possible to convert each location one at a time, this would not be practical if our data set was any bigger. Let's look for some more automated solutions. 
