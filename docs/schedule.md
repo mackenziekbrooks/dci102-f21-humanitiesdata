@@ -1,7 +1,7 @@
 
 **Jump to:**
 
-[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-network-analysis-spatial-analysis) \|  [Week 7](#week-7-text-analysis) \|  [Week 8](#week-8-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
+[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-network-analysis-spatial-analysis) \|  [Week 7](#week-7-mapping-text-analysis) \|  [Week 8](##week-8-text-analysis-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
 
 
 # Week 0 - First day! 
@@ -261,8 +261,9 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	* [Activity 6.3](../spatial-analysis/#activity-63)
 
 **For Thursday 10/28:**
+
 * Read [Text Analysis](../text-analysis) by class time. 
-* Print out this [activity packet](https://wlu.app.box.com/folder/123798425174) before class! 
+* Print out this [activity packet](https://wlu.app.box.com/file/877603261081) before class! 
 
 ## Thursday, October 28, 2021
 * Class agenda:
@@ -283,12 +284,12 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	* [DECIMA](https://decima-map.net/)
 
 
-# Week 7 - Text Analysis + Project Planning
+# Week 8 - Text Analysis + Project Planning
 
 ## Tuesday, November 2, 2021
 * Election day!
 * Read [Argument Clinic](http://scottbot.net/argument-clinic/) by Scott Weingart
-* Sign up for a consult time here: 
+* Sign up for a consult time here: [https://wlu.app.box.com/notes/877611706507](https://wlu.app.box.com/notes/877611706507)
 * Agenda
 	* icebreaker!
 	* [Activity 7.2](../text-analysis/#activity-72-voyant) 
@@ -299,7 +300,7 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 ## Thursday, November 4, 2021
 
-* We won't meet as a class today in favor of individual consultations about your projects. Don't forget to turn in your project proposal by 9am! 
+* We won't meet as a class today in favor of individual consultations about your projects. Don't forget to turn in your project proposal by 9am or before our meeting! 
 
 ## Activity log week 7
 

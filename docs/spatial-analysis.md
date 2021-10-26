@@ -90,7 +90,13 @@ Let's continue building on our Coeducation Report data set so we can use it to t
 
 
 ### Activity 6.3 
-There are a lot of options for tools that will create maps. In this activity, we'll divide into groups and test out a platform or two. We'll use the Coeducation Report as the data source for our map. 
+There are a lot of options for tools that will create maps. In this activity, we'll divide into groups and test out a platform or two. We'll use the Coeducation Report as the data source for our map (it's in Box).
+
+Groups: 
+* Team Palladio: Nayongi, Gavron, Maya, Quinn
+* Team ArcGIS: George, Richard, Elizabeth, Lily
+* Team Google MyMaps: Caitlyn, Merrill, Kit, Gabe, Mark
+* Team Tableau: Emma, Kaitlyn, Amanda, John, Mary Beth
 
 Platforms:
 
@@ -112,7 +118,7 @@ In your groups, answer the following questions. Record your answers in a Boxnote
 * Can you find the documentation? Other tutorials?
 * Using the Coeducation Report data, create a map. You may need to alter the data to fit the requirements of the mapping tool. 
 
-To complete this activity after class, select a second platform and go through the same questions. Compare the two platforms. 
+For your homework this week, you'll select a second platform and go through the same questions and upload the Coeducation data, then compare the two platforms.
 
 ## Resources
 * [Spatial Humanities Workshop](https://lincolnmullen.com/projects/spatial-workshop/)
