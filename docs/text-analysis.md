@@ -143,7 +143,7 @@ But where does the text come from? There are a lot of existing places to search 
 
 If you are not finding a pre-packaged corpus available, you have options for creating your own. If you're working from print material, you will need to scan the pages and extract the text through a process known as **Optical Character Recognition**. Be warned, this could be a lot of work! If you want to work with something that is already digital, but not well organized, there are [tools for scraping information](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) from the Web.
 
-In most cases, your corpus will consist of a collection of text files in a folder or series of folders. Since we've established that the computer doesn't really care about styling when it comes to processing documents, using the `.txt.` format is best. 
+In most cases, your corpus will consist of a collection of text files in a folder or series of folders. Since we've established that the computer doesn't really care about styling when it comes to processing documents, using the `.txt` format is best. 
 
 In most cases, you will want some identifying metadata in your file names so you can identify the file in a graph or other visualization. You'll want to generate a file naming convention that highlights what is unique about each document (date, name, etc). In the Data section, we talked about how computers use file names to sort content. If you want your text files to appear in chronological order, you should begin your file names with a year. 
 
@@ -187,10 +187,12 @@ Let's spend some time getting comfortable with [Voyant Tools](http://voyant-tool
 	* How do you export your results? 
 	* What types of questions can you form about your text with these tools? 
 
+6. If you finish with Voyant, take your text to [Lexos](http://lexos.wheatoncollege.edu/upload). What is different about this tool? Why is it useful? What other features does it have? Who created it? 
+
 
 ### Activity 7.3
 
-Now that you're comfortable with [Voyant](http://voyant-tools.org/), let's return to the Ring-tum Phi and compare it to another corpus: the [Alumni Magazine](https://wlu.box.com/s/qrx9pmuivgauuite3pshzxx4eb0yeolg). 
+Now that you're comfortable with [Voyant](http://voyant-tools.org/), let's return to the Ring-tum Phi and compare it to another corpus: the [Alumni Magazine](https://github.com/wludh/dataset-AlumniMagazine). 
  
 1. Select similar portions of time from both the Ring-tum Phi and the Alumni Magazine. You probably don't want to start with the entire decade - it's often best to start with a small bit of data and move up from there.  
 2. Assemble your corpus. Now that you're familiar with Voyant, what makes the most sense for each file? How many years should go in each file aka what is the "granularity?" How do you need to structure the corpus to balance the granularity of each file? IE: if one text file contains an entire year and another file contains just one month, how will that affect your graph? 

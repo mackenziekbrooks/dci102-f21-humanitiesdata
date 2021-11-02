@@ -1,7 +1,7 @@
 
 **Jump to:**
 
-[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-network-analysis-spatial-analysis) \|  [Week 7](#week-7-mapping-text-analysis) \|  [Week 8](##week-8-text-analysis-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
+[Week 0](#week-0-first-day) \| [Week 1](#week-1-how-the-web-works) \| [Week 2](#week-2-your-computer) \|  [Week 3](#week-3-data) \|  [Week 4](#week-4-visualization) \|  [Week 5](#week-5-network-analysis) \|  [Week 6](#week-6-network-analysis-spatial-analysis) \|  [Week 7](#week-7-mapping-text-analysis) \|  [Week 8](#week-8-text-analysis-project-planning) \|  [Week 9](#week-9-data-modeling) \|  [Week 10](#week-10-data-analysis-visualization) \|  [Week 11](#week-11-results-interpretation) \|  [Week 12](#week-12-wrapping-up-presentation) 
 
 
 # Week 0 - First day! 
@@ -283,6 +283,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 	* [Visualizing Emancipation](http://dsl.richmond.edu/emancipation/)
 	* [DECIMA](https://decima-map.net/)
 
+3. You should also be thinking about your project and making notes for your draft project proposal. You will need to turn it in this Thursday. 
 
 # Week 8 - Text Analysis + Project Planning
 
@@ -324,8 +325,7 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 ## Thursday, November  11, 2021
 
-* Open office hours: drop in to ask questions, get feedback, or hang out. 
-* Continue to use the [project feelings form](https://docs.google.com/forms/d/e/1FAIpQLScUTvIsFmeCaxZZi2tC6RvmSObOnfqphw7p-9nB84asPNQAJQ/viewform?usp=sf_link) as a place to dump feelings you have about your project! Responses can be anonymous. 
+* Data work
 
 **Due Monday at 9am**
 
@@ -336,7 +336,7 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 ## Tuesday, November 16, 2021
 
-* Open office hours: drop in to ask questions, get feedback, or hang out. (4:30-5:30pm)
+* Project work
 
 **For Thursday:**
 
@@ -357,11 +357,11 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 ## Tuesday, November 30, 2021
 
-* Open office hours 
+* Project work
 
 ## Thursday, December 2, 2021
 
-* Open office hours 
+* Project work
 
 **Due Monday 12/7 at 9am** 
 

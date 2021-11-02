@@ -93,6 +93,7 @@ Let's continue building on our Coeducation Report data set so we can use it to t
 There are a lot of options for tools that will create maps. In this activity, we'll divide into groups and test out a platform or two. We'll use the Coeducation Report as the data source for our map (it's in Box).
 
 Groups: 
+
 * Team Palladio: Nayongi, Gavron, Maya, Quinn
 * Team ArcGIS: George, Richard, Elizabeth, Lily
 * Team Google MyMaps: Caitlyn, Merrill, Kit, Gabe, Mark
@@ -104,6 +105,7 @@ Platforms:
 * [ArcGIS Online](https://www.arcgis.com/index.html) - Note that you can create a [free public account](https://www.esri.com/en-us/arcgis/products/create-account) or use the [StoryMaps](storymaps.arcgis.com/) feature. We have an institutional license if you want to use ArcGIS longer term.
 * [Google My Maps](https://www.google.com/maps/d/)
 * [Tableau Public](https://public.tableau.com/en-us/s/)
+
 
 In your groups, answer the following questions. Record your answers in a Boxnote so that other students can consult the information. 
 
