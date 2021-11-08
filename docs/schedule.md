@@ -297,7 +297,7 @@ Reading Days disrupted our routine, so pay attention as we tackle multiple metho
 
 **Due before your consult with me:**
 
-Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. It is okay if it is full of questions! This will be your week 7 blog post on Canvas.
+Draft your [project proposal](../assignments/#project-proposal) in preparation for next week's individual consults. It is okay if it is full of questions! 
 
 ## Thursday, November 4, 2021
 
@@ -316,16 +316,16 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 ## Tuesday, November 9, 2021
 
 * Class agenda
-	* icebreaker: 
+	* icebreaker: what's your project about? What about it is exciting or challenging?
 	* Project check-in 
 		* Data modeling 
 		* Data plan 
-		* Data license 
-	* Wordpress time! 
 
-## Thursday, November  11, 2021
+## Thursday, November 11, 2021
 
-* Data work
+* Class agenda:
+	* Data license
+	* Wordpress work
 
 **Due Monday at 9am**
 
@@ -348,9 +348,9 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 	* icebreaker
 	* visualization peer review
 
-**Due Monday 11/2 at 9am**
+**Due Monday 11/29 at 9am**
 
-1. Drafts of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis and writing about your results that you need to modify your visualizations. That's fine! Final data visualizations will be due 11/9.
+1. Drafts of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis and writing about your results that you need to modify your visualizations. That's fine!  
 2. Blog post week #10: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
 
 # Week 11 - Results + Interpretation
@@ -365,14 +365,16 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 **Due Monday 12/7 at 9am** 
 
-1. Your project! The [results](../assignments/#results), final visualizations, and updated data are all due. 
-2. Blog post week #11: In preparation to present your project in class, draft a 5 minute talk. You have an option when turning this in! It can be a blog post or an audio or video file that you turn in via Canvas. It can be hard to say everything you want to say in 5 minutes! Try to address the following: 
+1. Blog post week #11: In preparation to present your project in class, draft a 5 minute talk. You have an option when turning this in! It can be a blog post or an audio or video file that you turn in via Canvas. It can be hard to say everything you want to say in 5 minutes! Try to address the following: 
 	- What is this project about?
 	- Why did you select this topic?
 	- Where is the data from? What challenges did you face putting it together?
 	- What did you learn about your topic? How did the analysis methods help?
 	- What would you do differently OR what are the future directions of this project?
 
+**Due Tuesday 12/8 at 9am**
+
+2. Your project! The [results](../assignments/#results), final visualizations, and updated data are all due. 
 
 # Week 12 - Wrapping up + Presentation
 

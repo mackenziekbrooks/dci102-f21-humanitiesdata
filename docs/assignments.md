@@ -11,9 +11,9 @@ This is a lot to get used to at first, so please ask any questions you have earl
 
 |To earn a...|Complete the following|
 |---|---|
-|A| 7 weekly activity logs<br /> 11-12 blog posts<br />  6 project pieces|
-|B| 6 weekly activity logs<br />  8-10 blog posts<br />  4-5 project pieces|
-|C| 4-5 weekly activity logs<br />  5-7 blog posts <br />  2-3 project pieces|
+|A| 7 weekly activity logs<br /> 10-11 blog posts<br />  6 project pieces|
+|B| 6 weekly activity logs<br />  7-9 blog posts<br />  4-5 project pieces|
+|C| 4-5 weekly activity logs<br />  5-6 blog posts <br />  2-3 project pieces|
 |D| less than 4 weekly activity logs<br />  less than 5 blog posts<br />  1 project piece|
 
 ## Tokens
@@ -48,7 +48,7 @@ First things first, you should have an idea of what you want to do and how you'r
 
 **Specifications:**
 
-* Draft due Mondayh, November 4 at 9am.
+* Draft due Monday, November 4 at 9am.
 * Final version due Monday, November 8th, at 9am. 
 * 750-1000 words.
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
@@ -71,10 +71,10 @@ Once you've proposed your project, it's time to get working with your data! This
 * No word count requirement, but it should be at least 2-3 pages, if not more. The more detail the better! 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
 * Contains 4 pieces: 
-	* Part 1: Data Model - In this document, you will identify the structure of your data, list all the fields you will be using in your dataset, the format and type of those fields, and the source of the data for those fields. If your project involves a text corpus, you should list the scope and rationale of your corpus, as well as the source of the data. A network analysis project should include an edge list and an attribute table, with details about each attribute. 
+	* Part 1: Data Model - In this document, you will identify the structure of your data, list all the fields you will be using in your dataset, the format and data type of those fields, and the source of the data for those fields. If your project involves a text corpus, you should list the scope and rationale of your corpus, as well as the source of the data. A network analysis project should include an edge list and an attribute table, with details about each attribute. **Include 1-2 paragraphs of a narrative description/introduction to your data. Describe the sources and justify their inclusion in your project.** 
 	* Part 2: Data Plan - Describe your process for creating this data set according to your model. Will you be transcribing from a book? Copying from multiple sources? Is there data to be cleaned or transformed? OCR to be done? List the steps in detail. Identify any potential challenges to your plan. 
 	* Part 3: Data License - Under what license will you release this data? How are you crediting your sources? How should others cite your work? Consult [Open Data Commons](https://opendatacommons.org/) or [Creative Commons](http://www.creativecommons.org/) for licenses. Feel free to go back through the projects we've looked at already to see how they license their data. 
-	* Part 4: The actual data itself. This should be uploaded to your Wordpress site and linked from your project page, near the data license. It is okay if your data is not complete yet, but you should have an initial draft available. 
+	* Part 4: The actual data itself. This should be uploaded to your WordPress site and linked from your project page, near the data license. It is okay if your data is not complete yet, but you should have an initial draft available. A zip file might help get it uploaded to WordPress.
 
 
 ### Data Visualization 
@@ -85,7 +85,7 @@ Your humanities data project should include at least one (really awesome) visual
 
 * Final visualizations due Monday, November 29th, at 9am. 
 * Posted to your website in a designated project section. Turn in the link to this page on Canvas.
-* If your project involves an interactive visualization, it is okay to only one visualization. If you're working with static visualizations, like a graph, chart, or even some maps, create 2-5 visualizations.  
+* If your project involves an interactive visualization, it is okay to only one visualization (like a map with many layers). If you're working with static visualizations, like a graph, chart, or even some maps, create 2-5 visualizations.  
 * Visualizations should be clearly labled, with an accompanying short caption. The caption should explain the significance of this visualization and its connection to your research questions. 
 * Visualization should follow the [design principles](../visualization/#what-makes-a-good-visualization) we've covered in class. 
 
