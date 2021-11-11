@@ -324,33 +324,43 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 ## Thursday, November 11, 2021
 
 * Class agenda:
-	* Data license
+	* icebreaker: favorite 90s movie?
+	* Copyright chat
+	* Data license activity
+		* Pulling from our pool of projects that we've looked at already and any research you've done for your project, find three different examples of licenses for data.  
+		* Using this [definition](https://okfn.org/opendata/) of open data, evaluate your licenses against the three key features. 
+		* Which of these features makes sense for your project? Are you creating original data or do you need to be more concerned with *attribution* of someone else's data? 
+		* Share your findings with your neighbor.
 	* Wordpress work
+		* Return to your three favorite projects of the class. Let's look at their websites. What do you like? What don't you like? How do they organize their project pages? How do they style their website to reflect the goals of their project? 
+		* Your turn: let's do a quick check-up on your WordPress site. Is it ready to receive all your project material? Show your site to your classmate and ask their opiion. 
 
 **Due Monday at 9am**
 
 1. The [data documentation](../assignments/#data-documentation) assignment should be posted to your course website with the link turned in on Canvas.
 2. Blog post week #9: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
 
+**For Tuesday:**
+* Prepare 1-2 draft visualizations for peer review! Post them to your website so your classmate can view them.
+
 # Week 10 - Data Analysis + Visualization
 
 ## Tuesday, November 16, 2021
-
-* Project work
-
-**For Thursday:**
-
-* Prepare 1-2 draft visualizations for peer review! Post them to your website so your classmate can view them.
-
-## Thursday, November 18, 2201
 
 * Class agenda:
 	* icebreaker
 	* visualization peer review
 
+
+## Thursday, November 18, 2201
+
+* Class agenda:
+	* icebreaker
+	* project work
+
 **Due Monday 11/29 at 9am**
 
-1. Drafts of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis and writing about your results that you need to modify your visualizations. That's fine!  
+1. Thorough drafts of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis and writing about your results that you need to modify your visualizations. That's fine!  
 2. Blog post week #10: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
 
 # Week 11 - Results + Interpretation
