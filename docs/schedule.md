@@ -324,7 +324,7 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 ## Thursday, November 11, 2021
 
 * Class agenda:
-	* icebreaker: favorite 90s movie?
+	* icebreaker: 
 	* Copyright chat
 	* Data license activity
 		* Pulling from our pool of projects that we've looked at already and any research you've done for your project, find three different examples of licenses for data.  
@@ -348,9 +348,10 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 ## Tuesday, November 16, 2021
 
 * Class agenda:
-	* icebreaker
-	* visualization peer review
-
+	* icebreaker: favorite 90s movie OR Thanksgiving food
+	* project management chitchat
+	* visualization peer review, let's use this [Boxnote](https://wlu.app.box.com/notes/885539365662).
+	 
 
 ## Thursday, November 18, 2201
 
@@ -360,8 +361,8 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 **Due Monday 11/29 at 9am**
 
-1. Thorough drafts of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis and writing about your results that you need to modify your visualizations. That's fine!  
-2. Blog post week #10: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week?
+1. Thorough versions of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis in the coming week and writing about your results that you need to modify your visualizations. That's fine!  
+2. Blog post week #10: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week? And, what did you learn in peer review? 
 
 # Week 11 - Results + Interpretation
 
@@ -369,11 +370,16 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 * Project work
 
+**For Thursday**
+
+Prepare a draft of your analysis/results for peer review on Thursday. 
+
 ## Thursday, December 2, 2021
 
 * Project work
+* Peer review
 
-**Due Monday 12/7 at 9am** 
+**Due Monday 12/6 at 9am** 
 
 1. Blog post week #11: In preparation to present your project in class, draft a 5 minute talk. You have an option when turning this in! It can be a blog post or an audio or video file that you turn in via Canvas. It can be hard to say everything you want to say in 5 minutes! Try to address the following: 
 	- What is this project about?
@@ -382,7 +388,7 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 	- What did you learn about your topic? How did the analysis methods help?
 	- What would you do differently OR what are the future directions of this project?
 
-**Due Tuesday 12/8 at 9am**
+**Due Tuesday 12/7 at 9am**
 
 2. Your project! The [results](../assignments/#results), final visualizations, and updated data are all due. 
 
