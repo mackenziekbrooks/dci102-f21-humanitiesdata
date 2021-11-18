@@ -356,12 +356,13 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 ## Thursday, November 18, 2201
 
 * Class agenda:
-	* icebreaker
+	* icebreaker: favorite Thanksgiving food
+	* activity: Put away distractions and let's do a little free writing. Compose a note to yourself for after break when you're back in thick of it. What have you done so far for this class that you're proud of? Or impressed that you were able to do? What progress have you made on your project so far? What stage is your project at right now and how do you feel about it? What do you want to remember about your project when you pick it back up? Finally, set your intentions for today. What do you want to accomplish? What questions do you have? 
 	* project work
 
 **Due Monday 11/29 at 9am**
 
-1. Thorough versions of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis in the coming week and writing about your results that you need to modify your visualizations. That's fine!  
+1. Thorough (but not necessarily final) versions of your [data visualizations](../assignments/#data-visualization) are due. Post to your website and turn in the link on Canvas. You might find that after conducting analysis in the coming week and writing about your results that you need to modify your visualizations. That's fine!  
 2. Blog post week #10: In 250-300 words, let's have a project update! Address the following questions: what did you get done this week? How did it go? What could have gone better? What lessons did you learn this week? What did you learn that will be useful outside this class? What are your goals for next week? And, what did you learn in peer review? 
 
 # Week 11 - Results + Interpretation
