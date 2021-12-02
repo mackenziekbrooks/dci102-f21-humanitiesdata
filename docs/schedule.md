@@ -373,12 +373,13 @@ Draft your [project proposal](../assignments/#project-proposal) in preparation f
 
 **For Thursday**
 
-Prepare a draft of your analysis/results for peer review on Thursday. 
+Prepare a draft (500 words) of your analysis/results for peer review on Thursday. 
 
 ## Thursday, December 2, 2021
 
+* Icebreaker!
 * Project work
-* Peer review
+* [Peer review](https://wlu.app.box.com/notes/891483078081)
 
 **Due Monday 12/6 at 9am** 
 
